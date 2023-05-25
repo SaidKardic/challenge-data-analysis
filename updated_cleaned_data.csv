@@ -19,13 +19,11 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10584950,8550,zwevegem,apartment,apartment,269000,2022.0,2.0,90.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
 10584949,8550,zwevegem,apartment,apartment,275000,2022.0,2.0,89.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
 10584943,8420,de haan,apartment,apartment,478000,1970.0,3.0,120.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,1,912.0,106.0,,B,,,6.0
-10538719,03191,torre de la horadada,apartment,apartment,209900,2024.0,3.0,97.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,0,1,,,,,,,
+10538719,3191,torre de la horadada,apartment,apartment,209900,2024.0,3.0,97.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,0,1,,,,,,,
 10584940,1350,orp-jauche,house,house,389000,2019.0,3.0,190.0,,0,0.0,0.0,0.0,1.0,450.0,648.0,,0,,0,0,,115.0,115.0,B,,,
-10584939,03509,finestrat,house,villa,495000,2024.0,3.0,114.0,,0,0.0,1.0,0.0,0.0,0.0,554.0,,1,,0,0,,,,,,,
-10584938,30385,los belones,house,villa,395000,2024.0,2.0,83.0,,0,0.0,1.0,0.0,0.0,0.0,270.0,,1,,0,0,,,,,,,
+10584939,3509,finestrat,house,villa,495000,2024.0,3.0,114.0,,0,0.0,1.0,0.0,0.0,0.0,554.0,,1,,0,0,,,,,,,
 10584937,3621,rekem,house,villa,919000,1976.0,4.0,375.0,Hyper equipped,0,0.0,0.0,0.0,1.0,2850.0,2850.0,4.0,1,As new,0,0,,364.0,,D,Gas,3.0,6.0
-10584936,03177,san fulgencio,house,villa,269000,2024.0,3.0,83.0,,0,0.0,1.0,0.0,0.0,0.0,181.0,,1,,0,0,,,,,,,
-10584935,30613,villanueva rio segura,apartment,apartment,76700,2023.0,1.0,42.0,,0,0.0,1.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10584936,3177,san fulgencio,house,villa,269000,2024.0,3.0,83.0,,0,0.0,1.0,0.0,0.0,0.0,181.0,,1,,0,0,,,,,,,
 10584928,2970,'s-gravenwezel,house,villa,645000,1976.0,4.0,250.0,,0,1.0,1.0,0.0,1.0,0.0,1020.0,,0,To renovate,0,1,,526.0,,F,,,2.0
 10584925,8300,knokke-heist,apartment,apartment,875000,1990.0,3.0,117.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Just renovated,1,0,,100.0,,A,Gas,,5.0
 10584922,2100,deurne,apartment,apartment,174000,1973.0,2.0,82.0,Installed,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,Good,0,0,710.0,187.0,,B,Gas,2.0,4.0
@@ -179,8 +177,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10584776,2220,heist-op-den-berg,house,house,417000,2023.0,4.0,183.0,Installed,0,0.0,1.0,0.0,1.0,0.0,310.0,2.0,0,,0,0,,,,,Gas,2.0,
 10584767,8980,zonnebeke,apartment,apartment,228000,2020.0,2.0,91.0,Installed,0,0.0,1.0,13.0,1.0,0.0,,,0,,1,0,,,,,Gas,2.0,
 10584764,5540,hastière,house,chalet,89000,,2.0,52.0,Installed,0,0.0,1.0,18.0,0.0,0.0,,4.0,0,Good,0,0,,330.0,768.0,D,Pellet,2.0,4.0
-10584759,185%2031,pireas,apartment,apartment,250000,,2.0,78.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10584758,166%2073,voula,apartment,apartment,1500000,2003.0,3.0,195.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Electric,,6.0
 10555241,1820,steenokkerzeel,house,bungalow,425000,1979.0,3.0,140.0,USA installed,0,0.0,1.0,24.0,1.0,260.0,800.0,4.0,0,To be done up,0,0,1576.0,621.0,10.0,F,Electric,2.0,3.0
 10566137,1410,waterloo,house,villa,595000,1974.0,3.0,215.0,Installed,0,0.0,1.0,0.0,1.0,1100.0,1284.0,4.0,0,To renovate,0,0,4100.0,375.0,93.0,E,Fuel oil,2.0,2.0
 10566163,8500,kortrijk,house,villa,1275000,1994.0,5.0,456.0,Installed,0,0.0,1.0,70.0,1.0,900.0,1681.0,4.0,0,As new,0,1,2602.0,165.0,,B,Gas,2.0,6.0
@@ -193,7 +189,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10376761,1000,bruxelles,apartment,flat studio,185000,2001.0,1.0,37.0,USA installed,1,0.0,1.0,3.0,0.0,0.0,,2.0,0,Good,1,0,836.0,283.0,45.0,F,Electric,2.0,4.0
 10496742,1410,waterloo,apartment,flat studio,195000,1970.0,1.0,47.0,Not installed,0,0.0,1.0,23.0,0.0,0.0,,2.0,0,To be done up,0,0,676.0,403.0,74.0,E,Gas,0.0,3.0
 10523250,4357,donceel,apartment,duplex,195000,1874.0,3.0,190.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,,3.0,0,Good,0,0,615.0,380.0,95.0,E,Fuel oil,1.0,4.0
-10584757,166%2074,glyfada,apartment,duplex,1200000,2012.0,3.0,290.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
 10584755,9881,bellem,house,house,225000,1934.0,3.0,123.0,,0,1.0,1.0,0.0,1.0,0.0,497.0,3.0,0,To renovate,0,1,314.0,656.0,,F,,,2.0
 10584754,9800,deinze,apartment,apartment,183380,1968.0,2.0,80.0,Installed,0,0.0,1.0,0.0,0.0,0.0,,2.0,0,To be done up,1,1,711.0,94.0,,A,Gas,2.0,3.0
 10584753,9031,drongen,house,house,409986,,3.0,160.0,Installed,0,0.0,1.0,25.0,1.0,95.0,201.0,3.0,0,,0,0,,,,,,2.0,
@@ -444,8 +439,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10584315,1310,la hulpe,house,house,625000,2010.0,5.0,240.0,,0,0.0,1.0,60.0,0.0,0.0,,3.0,0,As new,0,1,2500.0,444.0,82.0,F,Gas,,6.0
 10584314,1640,rhode-saint-genese,house,villa,2700000,1994.0,4.0,500.0,Installed,0,0.0,0.0,0.0,0.0,0.0,3100.0,4.0,1,As new,0,0,8957.0,247.0,17647.0,C,Gas,2.0,6.0
 10584313,7130,binche,house,villa,499000,1979.0,4.0,533.0,,0,0.0,0.0,0.0,0.0,0.0,,4.0,1,To renovate,0,0,,344.0,,E,Gas,,2.0
-10584307,166%2073,voula,house,house,1350000,1993.0,4.0,358.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Electric,,6.0
-10584305,166%2073,voula,house,house,1080000,2002.0,3.0,250.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Electric,,6.0
 10194449,1380,lasne,house,villa,1350000,1920.0,6.0,300.0,Not installed,0,0.0,0.0,0.0,0.0,0.0,14631.0,4.0,0,To renovate,0,0,4081.0,608.0,150.0,G,Fuel oil,0.0,2.0
 10526367,1050,ixelles,apartment,penthouse,1590000,1954.0,3.0,290.0,Hyper equipped,0,0.0,1.0,40.0,0.0,0.0,,2.0,0,As new,1,1,5091.0,195.0,50.0,D,Gas,3.0,6.0
 9948962,4910,theux,house,castle,1960000,1898.0,25.0,1120.0,Installed,0,0.0,1.0,34.0,1.0,12330.0,14065.0,4.0,0,Good,0,1,1826.0,440.0,110.0,F,Fuel oil,2.0,4.0
@@ -463,15 +456,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10582722,1050,ixelles,apartment,loft,695000,,3.0,240.0,USA hyper equipped,0,0.0,1.0,10.0,0.0,0.0,,,0,Good,0,0,,388.0,77.0,G,Gas,3.0,4.0
 10572659,1200,sint-lambrechts-woluwe,apartment,penthouse,805000,2020.0,3.0,170.0,USA hyper equipped,0,0.0,1.0,16.0,0.0,0.0,,2.0,0,As new,1,1,,73.0,13.0,B,Gas,3.0,6.0
 10560702,1332,rixensart genval,house,villa,349000,1965.0,3.0,112.0,Installed,0,0.0,1.0,50.0,1.0,897.0,984.0,4.0,0,To be done up,0,0,,507.0,96.0,F,Gas,2.0,3.0
-10584304,166%2073,schinos,house,villa,270000,1988.0,4.0,345.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,,,6.0
-10584303,166%2073,voula,apartment,apartment,1270000,2007.0,3.0,218.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Electric,,6.0
-10584302,166%2073,voula,apartment,apartment,1330000,2020.0,4.0,204.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,As new,1,0,,,,,Electric,,6.0
-10584301,166%2074,glyfada,house,house,1250000,,4.0,266.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Electric,,6.0
-10584300,204%2000,xilokastro,house,villa,400000,2000.0,5.0,220.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10584299,166%2073,voula,apartment,apartment,348000,1980.0,2.0,76.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10584298,145%2061,kifissia,house,house,430000,,5.0,275.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
 10413266,3380,glabbeek,house,house,399000,1991.0,4.0,173.0,Hyper equipped,0,0.0,0.0,0.0,1.0,948.0,948.0,4.0,0,Good,0,0,1182.0,370.0,,D,Gas,3.0,4.0
-10584297,203%2000,loutraki,house,house,275000,2016.0,4.0,230.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,,,,Fuel oil,,
 10584293,2840,rumst terhagen,apartment,penthouse,540000,2010.0,2.0,136.0,Hyper equipped,0,0.0,1.0,124.0,0.0,0.0,,,0,,1,0,1033.0,162.9,,B,Gas,3.0,
 10584292,1000,bruxelles,house,house,799000,1900.0,6.0,208.0,Hyper equipped,0,0.0,1.0,0.0,1.0,35.0,,2.0,0,As new,0,0,,397.0,79.0,G,Gas,3.0,6.0
 10584291,1050,ixelles,house,apartment block,1060000,1986.0,5.0,365.0,Not installed,0,0.0,1.0,25.0,0.0,0.0,120.0,2.0,0,,0,0,,,,,Gas,0.0,
@@ -1441,7 +1426,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10582984,2590,berlaar,house,house,449000,1990.0,4.0,234.0,Installed,0,1.0,0.0,0.0,1.0,0.0,1482.0,3.0,0,Good,0,0,,237.0,,C,Gas,2.0,4.0
 10582983,9750,kruisem,house,villa,865000,1874.0,4.0,207.0,,0,0.0,0.0,0.0,0.0,0.0,11225.0,4.0,0,,0,0,321.0,781.0,,F,Electric,,
 10496457,4101,jemeppe,apartment,apartment,150000,,2.0,70.0,,0,0.0,1.0,10.0,0.0,0.0,,,0,Just renovated,0,0,560.0,366.0,,E,,,5.0
-10582979,04470,saint-georges-sur-meuse,house,house,165000,,3.0,110.0,Semi equipped,0,0.0,1.0,30.0,1.0,150.0,785.0,3.0,0,Good,0,0,376.0,340.0,86.0,,Fuel oil,1.0,4.0
+10582979,4470,saint-georges-sur-meuse,house,house,165000,,3.0,110.0,Semi equipped,0,0.0,1.0,30.0,1.0,150.0,785.0,3.0,0,Good,0,0,376.0,340.0,86.0,,Fuel oil,1.0,4.0
 10582957,3920,lommel,house,house,297000,,3.0,145.0,,0,0.0,0.0,0.0,0.0,0.0,935.0,4.0,0,Good,0,0,,735.0,,F,Fuel oil,,4.0
 10582956,7170,manage bellecourt,house,house,310000,,3.0,98.0,Installed,0,0.0,1.0,38.0,1.0,195.0,273.0,2.0,0,As new,0,0,583.0,137.0,,B,Gas,2.0,6.0
 10582954,9870,olsene,house,house,549000,1968.0,4.0,264.0,,0,0.0,0.0,0.0,0.0,0.0,735.0,4.0,1,Good,0,1,1011.0,289.0,,C,Gas,,4.0
@@ -2355,7 +2340,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10562016,1180,uccle,house,villa,2250000,1990.0,4.0,433.0,,0,0.0,0.0,0.0,0.0,0.0,1900.0,4.0,0,Good,0,0,,181.0,38.0,D,Gas,,4.0
 10581783,8870,emelgem,house,house,339000,2018.0,5.0,160.0,,0,0.0,0.0,0.0,1.0,0.0,223.0,,0,,0,0,637.0,,,,,,
 10562798,2980,zoersel,house,house,495000,1972.0,6.0,347.0,Semi equipped,0,1.0,0.0,0.0,1.0,0.0,1553.0,4.0,0,To be done up,0,1,1621.0,449.0,,E,Gas,1.0,3.0
-10581780,30740,san pedro del pinatar,apartment,apartment,234000,2024.0,3.0,85.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,0,0,,,,,,,
 10572103,9300,aalst,house,house,329000,,3.0,133.0,Installed,0,0.0,1.0,19.0,1.0,21.0,72.0,,0,Just renovated,0,0,,118.0,,B,Gas,2.0,5.0
 10581779,9473,welle,house,house,339000,1950.0,3.0,176.0,,0,0.0,0.0,0.0,1.0,0.0,913.0,,0,To renovate,0,0,683.0,908.0,,F,Fuel oil,,2.0
 10581778,9420,erpe-mere,house,villa,410000,1962.0,4.0,231.0,Semi equipped,0,0.0,1.0,20.0,1.0,0.0,834.0,,0,,0,0,1122.0,349.0,,D,Fuel oil,1.0,
@@ -3166,22 +3150,8 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10580468,9971,lembeke,house,house,339000,2015.0,3.0,149.0,Installed,0,0.0,1.0,20.0,1.0,54.0,162.0,2.0,0,Good,0,0,572.0,90.0,,A,Gas,2.0,4.0
 10580467,4550,nandrin,house,house,395000,,3.0,203.0,,0,0.0,1.0,30.0,0.0,0.0,835.0,3.0,0,,0,0,,,,,,,
 10580464,3850,nieuwerkerken,house,house,519000,1968.0,3.0,201.0,Installed,0,0.0,0.0,0.0,0.0,0.0,1013.0,4.0,0,Just renovated,0,0,905.0,36.0,,A,Gas,2.0,5.0
-10580463,151%2027,melissia,apartment,apartment,395000,2023.0,3.0,107.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10580462,151%2022,amaroussio,apartment,duplex,450000,1997.0,3.0,180.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10580461,151%2022,marousi,apartment,apartment,355000,2008.0,3.0,114.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
 10463157,3800,sint-truiden,house,house,245000,1951.0,3.0,169.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,600.0,2.0,0,Good,0,0,706.0,468.0,,E,Pellet,1.0,4.0
-10580460,153%2041,agia paraskevi,apartment,apartment,290000,1999.0,3.0,100.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10580459,281%2000,argostoli,house,house,140000,2003.0,3.0,113.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,,,,Fuel oil,,
-10580458,340%2007,skiros,house,house,650000,,8.0,350.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,,,6.0
-10580457,11636,athènes,apartment,apartment,585000,2023.0,2.0,82.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
-10580456,34150,chalkida,house,villa,320000,,4.0,180.0,,1,1.0,0.0,0.0,0.0,0.0,1000.0,,0,As new,0,0,,,,,Electric,,6.0
-10580455,166%2073,voula,apartment,apartment,300000,1978.0,2.0,76.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,,,,Electric,,
 10129606,3891,buvingen,house,house,255000,1960.0,4.0,292.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,652.0,2.0,0,To be done up,0,0,546.0,220.0,,C,Fuel oil,1.0,3.0
-10580454,166%2073,voula,apartment,apartment,1000000,1980.0,3.0,110.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
-10580453,146%2071,nea erythraia,apartment,apartment,245000,1981.0,2.0,93.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10580452,20300,loutraki,house,house,280000,2016.0,2.0,155.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10580451,20300,loutraki,house,house,250000,,2.0,144.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10580450,20300,loutraki,house,house,300000,,3.0,160.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
 10543689,9190,stekene,house,house,320000,,3.0,180.0,Installed,0,0.0,1.0,0.0,0.0,0.0,605.0,4.0,0,Good,0,0,384.0,782.0,,F,Gas,2.0,4.0
 10530029,4670,blegny,house,villa,435000,1975.0,5.0,215.0,Installed,0,0.0,1.0,50.0,0.0,0.0,1079.0,4.0,0,,0,1,1078.0,368.0,,E,Fuel oil,2.0,
 10356313,4800,verviers polleur,house,villa,435000,1992.0,4.0,168.0,Installed,0,0.0,1.0,30.0,1.0,500.0,1107.0,4.0,1,Good,0,0,1303.0,302.0,,D,Gas,2.0,4.0
@@ -3213,31 +3183,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10467661,3320,hoegaarden,house,villa,599999,1999.0,7.0,420.0,Installed,0,1.0,0.0,0.0,1.0,18.0,2086.0,4.0,0,Good,0,0,1707.0,148.0,,B,Gas,2.0,4.0
 10524988,6741,Étalle,house,villa,625000,2000.0,4.0,245.0,USA hyper equipped,0,2.0,1.0,65.0,1.0,30.0,4100.0,4.0,0,As new,0,0,882.0,162.0,,B,Fuel oil,3.0,6.0
 10509340,7090,braine-le-comte,house,villa,625000,,4.0,328.0,USA hyper equipped,0,1.0,0.0,0.0,1.0,1355.0,1682.0,4.0,0,As new,0,1,1095.0,280.0,70.0,D,Fuel oil,3.0,6.0
-10580449,155%2061,cholargos,apartment,apartment,205000,1970.0,2.0,75.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10580447,151%2022,marousi,apartment,apartment,620000,2024.0,3.0,115.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
-10580446,151%2022,marousi,apartment,apartment,580000,2024.0,3.0,115.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
-10580445,151%2027,melissia,apartment,apartment,440000,2024.0,3.0,110.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10580444,151%2022,marousi,apartment,apartment,270000,,2.0,100.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,Gas,,4.0
-10580443,151%2022,marousi,apartment,duplex,560000,1976.0,3.0,147.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10580442,340%2015,stira,house,villa,380000,2005.0,3.0,220.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10580440,100%2000,mets - kalimarmaro,apartment,apartment,380000,1998.0,2.0,100.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Gas,,4.0
-10580439,166%2074,glyfada,house,house,8000000,,4.0,662.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Fuel oil,,6.0
-10580435,166%2073,voula,house,villa,980000,1986.0,4.0,425.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,Fuel oil,,4.0
-10580434,846%2000,ano almyri,house,house,195000,1980.0,3.0,160.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Electric,,6.0
-10580433,846%2000,kato alepochorion,house,house,185000,,2.0,80.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,Electric,,4.0
-10580429,166%2071,vouliagmeni,apartment,apartment,840000,2004.0,3.0,120.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10580428,166%2074,glyfada,house,house,3800000,,5.0,700.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Electric,,6.0
-10580427,166%2072,vari,house,apartment block,8500000,1999.0,6.0,450.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Fuel oil,,6.0
-10580425,340%2007,skiros,apartment,ground floor,220000,2007.0,4.0,100.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,,,4.0
-10580424,340%2007,skiros,apartment,apartment,250000,2007.0,3.0,120.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,,,4.0
 10580423,8930,menen,house,house,300000,,3.0,216.0,Semi equipped,0,0.0,1.0,22.0,1.0,2035.0,2217.0,3.0,0,To renovate,0,0,507.0,964.0,,F,Electric,1.0,2.0
-10580422,190%2005,nea makri,house,house,265000,1985.0,2.0,80.0,,0,1.0,1.0,80.0,1.0,450.0,,,0,As new,0,0,,,,,Gas,,6.0
-10580420,152%2037,filothei,apartment,apartment,315000,1975.0,2.0,121.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Gas,,4.0
-10580419,165%2061,glyfada,apartment,apartment,290000,,2.0,78.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,,,6.0
-10580418,113%2063,athènes,apartment,apartment,130000,1985.0,2.0,75.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Fuel oil,,4.0
-10580417,142%2031,nea ionia,apartment,apartment,165000,1980.0,2.0,80.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Fuel oil,,4.0
-10580415,173%2042,agios dimitrios,apartment,apartment,170000,2009.0,2.0,63.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10580414,164%2052,argyroupoli,apartment,flat studio,65000,1980.0,1.0,28.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,,,4.0
 10545725,7860,lessines,house,apartment block,625000,,6.0,350.0,,0,0.0,1.0,200.0,1.0,200.0,411.0,4.0,0,Just renovated,0,1,2620.0,263.0,48.0,D,Gas,,5.0
 10095459,1090,jette,house,apartment block,635000,1900.0,6.0,323.0,Not installed,0,0.0,0.0,0.0,1.0,211.0,305.0,2.0,0,Good,0,1,1338.0,340.0,,F,Gas,0.0,4.0
 9474750,1470,baisy-thy,house,villa,645000,2008.0,4.0,260.0,Installed,0,1.0,1.0,30.0,1.0,0.0,1412.0,4.0,0,Good,0,1,2643.0,105.0,,B,,2.0,4.0
@@ -3267,17 +3213,10 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10538936,1950,kraainem,house,villa,945000,1973.0,5.0,240.0,Hyper equipped,0,0.0,1.0,37.0,1.0,250.0,503.0,4.0,0,Good,0,1,,420.0,,E,,3.0,4.0
 10526425,1970,wezembeek-oppem,house,villa,950000,2020.0,5.0,290.0,Hyper equipped,0,0.0,1.0,20.0,1.0,350.0,435.0,4.0,0,As new,0,1,3650.0,123.0,,B,,3.0,6.0
 10539546,1755,gooik,house,manor house,975000,1993.0,3.0,631.0,USA hyper equipped,0,0.0,0.0,0.0,1.0,0.0,1480.0,4.0,0,Good,0,0,2833.0,211.0,1000.0,C,Fuel oil,3.0,4.0
-10580413,145%2078,ekali,apartment,triplex,4300000,1990.0,8.0,1150.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,1,0,,,,,Fuel oil,,6.0
-10580412,152%2035,vrilissia,apartment,apartment,420000,2023.0,3.0,122.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,,0,0,,,,,Gas,,
-10580410,152%2031,chalandri,apartment,apartment,250000,,1.0,48.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10580409,341%2000,chalkida,house,house,168000,1995.0,3.0,174.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10560398,166%2074,glyfada,apartment,duplex,790000,1994.0,4.0,186.0,,0,1.0,0.0,0.0,1.0,70.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
 10514582,6831,noirefontaine,house,house,615000,2001.0,7.0,400.0,Installed,0,0.0,1.0,0.0,1.0,0.0,1564.0,4.0,0,Good,0,1,,133.0,,B,Fuel oil,2.0,4.0
-10580402,341%2000,chalkida,house,house,255000,2000.0,3.0,132.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Fuel oil,,6.0
 10580400,2880,bornem,house,house,395000,,3.0,200.0,Installed,0,0.0,1.0,0.0,0.0,0.0,399.0,2.0,0,Good,0,0,989.0,175.0,,B,Gas,2.0,4.0
 10580399,1410,waterloo,apartment,apartment,265000,1971.0,2.0,80.0,Installed,0,1.0,1.0,16.0,0.0,0.0,,2.0,0,To restore,0,1,2009.0,170.0,42.0,B,Gas,2.0,1.0
 10464427,7870,bauffe,house,house,215000,,3.0,230.0,Not installed,0,0.0,0.0,0.0,0.0,0.0,657.0,,0,To renovate,0,1,527.0,641.0,,G,,0.0,2.0
-10490858,145%2062,kifissia,apartment,apartment,800000,1990.0,3.0,187.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,Good,1,0,,,,,Gas,,4.0
 10580396,9280,lebbeke,house,mixed use building,399000,2002.0,3.0,236.0,Installed,0,0.0,1.0,20.0,0.0,0.0,,4.0,0,Good,1,0,,223.0,,C,Gas,2.0,4.0
 10580395,9280,lebbeke,apartment,penthouse,399000,2002.0,3.0,236.0,Installed,0,0.0,1.0,20.0,0.0,0.0,,4.0,0,Good,1,0,,223.0,,C,Gas,2.0,4.0
 10580393,1500,halle,apartment,duplex,339000,,2.0,95.0,Semi equipped,0,0.0,1.0,0.0,1.0,160.0,,2.0,0,Just renovated,0,0,,96.0,,A,Gas,1.0,5.0
@@ -3328,7 +3267,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10580370,9000,gent,apartment,apartment,348000,2011.0,2.0,98.0,Installed,0,0.0,1.0,0.0,0.0,0.0,,4.0,0,,1,1,,71.0,,A,Gas,2.0,
 10580368,9900,eeklo,apartment,apartment,213700,,2.0,97.0,,0,0.0,0.0,0.0,1.0,1.0,,2.0,0,,0,0,,,,,,,
 10580361,4020,liège,apartment,apartment,395000,,3.0,190.0,Installed,0,0.0,1.0,4.0,0.0,0.0,,,0,Good,1,1,1.0,194.0,,C,Gas,2.0,4.0
-10389777,151%2022,marousi,apartment,apartment,290000,2000.0,3.0,107.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Gas,,4.0
 10580354,1780,wemmel,apartment,apartment,335000,2023.0,2.0,72.0,USA installed,0,0.0,1.0,15.0,1.0,337.0,,2.0,0,,1,1,,,,,Gas,2.0,
 10580350,1320,hamme-mille,house,villa,595000,2019.0,4.0,218.0,USA installed,0,0.0,1.0,25.0,1.0,400.0,556.0,4.0,0,Good,0,0,1448.0,103.0,,B,Gas,2.0,4.0
 10580348,1650,beersel,house,house,395000,1930.0,4.0,221.0,Installed,0,0.0,0.0,0.0,0.0,0.0,250.0,2.0,0,Good,0,1,912.0,227.0,,C,Gas,2.0,4.0
@@ -3341,7 +3279,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10580341,1030,schaerbeek,house,mixed use building,1159000,1920.0,6.0,300.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,110.0,3.0,0,To be done up,0,1,2900.0,,,,Gas,1.0,3.0
 10580338,7034,obourg,house,house,308704,,3.0,140.0,Hyper equipped,0,0.0,1.0,0.0,1.0,0.0,300.0,3.0,0,As new,0,0,,,,A_A+,Gas,3.0,6.0
 9992699,3320,hoegaarden,house,apartment block,310000,,3.0,265.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,279.0,,C,Gas,,
-10266350,134009,oropos,house,house,160000,1972.0,3.0,82.0,,0,1.0,0.0,0.0,0.0,0.0,,4.0,0,As new,0,0,,,,,Wood,,6.0
 10580324,8710,ooigem,house,house,343923,2022.0,3.0,155.0,,0,0.0,1.0,0.0,0.0,0.0,328.0,3.0,0,Good,0,0,,,,,Gas,,4.0
 10580323,9420,erpe-mere,house,villa,849000,1978.0,5.0,520.0,,0,0.0,0.0,0.0,0.0,0.0,981.0,4.0,0,Good,0,0,2131.0,155.0,,B,Gas,,4.0
 10580321,8370,blankenberge,house,house,175000,,4.0,70.0,Semi equipped,1,0.0,0.0,0.0,0.0,0.0,,,0,To be done up,0,0,641.0,454.0,,E,Gas,1.0,3.0
@@ -3376,8 +3313,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10560743,9111,sint-niklaas belsele,house,country cottage,849000,1950.0,5.0,380.0,USA hyper equipped,0,0.0,1.0,0.0,1.0,10000.0,11052.0,4.0,0,Good,0,1,,588.0,,F,Pellet,3.0,4.0
 10566083,6500,beaumont,house,apartment block,350000,,2.0,220.0,Semi equipped,0,0.0,1.0,0.0,0.0,0.0,,3.0,0,As new,0,0,1515.0,212.0,,C,,1.0,6.0
 10580314,1970,wezembeek-oppem,house,house,670000,2001.0,4.0,231.0,Hyper equipped,0,0.0,1.0,20.0,1.0,30.0,162.0,2.0,0,As new,0,0,2296.0,106.0,,B,Gas,3.0,6.0
-10401688,151%2021,pefki,house,house,520000,2006.0,5.0,224.0,,0,1.0,1.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10152920,340%2007,skiros,house,house,400000,2007.0,2.0,274.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,,,4.0
 10580301,9170,sint-gillis-waas,house,house,395000,1966.0,3.0,171.0,Installed,0,0.0,1.0,0.0,1.0,0.0,510.0,4.0,0,Good,0,0,964.0,697.0,,F,Gas,2.0,4.0
 10580298,1325,gistoux,house,house,645000,1978.0,6.0,300.0,Semi equipped,0,1.0,1.0,100.0,1.0,1876.0,1876.0,4.0,0,To be done up,0,1,3428.0,328.0,65.0,D,,1.0,3.0
 10580297,1830,machelen,house,house,398000,1971.0,4.0,130.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,,4.0,0,,0,0,1023.0,491.0,,E,Gas,1.0,
@@ -3394,7 +3329,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10580279,8510,marke,house,house,219900,1969.0,4.0,155.0,Semi equipped,0,0.0,0.0,0.0,1.0,0.0,288.0,3.0,0,To renovate,0,1,736.0,428.0,,E,Fuel oil,1.0,2.0
 10580278,5060,velaine-sur-sambre,house,house,149500,,2.0,94.0,Semi equipped,0,0.0,0.0,0.0,1.0,36.0,,4.0,0,To renovate,0,0,700.0,600.0,148.0,G,Fuel oil,1.0,2.0
 10580275,7911,moustier,house,house,280000,,3.0,160.0,,0,0.0,1.0,0.0,1.0,0.0,512.0,,0,,0,0,,,,,,,
-10121876,190%2013,anavyssos,house,villa,900000,2005.0,6.0,650.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,Good,1,0,,,,,Fuel oil,,4.0
 10580273,9600,ronse,apartment,apartment,187500,2013.0,1.0,73.0,Installed,0,0.0,1.0,0.0,0.0,0.0,,2.0,0,As new,1,0,742.0,83.0,,A,Gas,2.0,6.0
 10580271,6000,charleroi,apartment,apartment,189000,2011.0,2.0,135.0,Installed,0,0.0,1.0,35.0,1.0,35.0,,2.0,0,As new,0,1,834.0,223.0,41.0,C,,2.0,6.0
 10580268,3128,baal,house,house,409000,1967.0,2.0,192.0,Installed,0,0.0,0.0,0.0,1.0,0.0,1480.0,4.0,0,Good,0,0,,241.0,,C,Fuel oil,2.0,4.0
@@ -3429,14 +3363,11 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10580262,5100,jambes,house,apartment block,380000,,3.0,175.0,Semi equipped,0,0.0,1.0,20.0,1.0,0.0,149.0,2.0,0,Good,0,1,1893.0,495.0,,F,Gas,1.0,4.0
 10580254,1060,saint-gilles,house,mixed use building,849000,1890.0,5.0,350.0,Installed,0,0.0,0.0,0.0,0.0,0.0,130.0,2.0,0,Good,0,0,2557.0,584.0,117.0,G,Gas,2.0,4.0
 10580240,1420,braine-l'alleud,apartment,triplex,495000,2017.0,3.0,162.0,,0,0.0,0.0,0.0,1.0,450.0,,3.0,0,,0,0,2072.0,103.0,,B,Gas,,
-10580232,190%2014,kapandriti,house,villa,390000,2003.0,6.0,330.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,To be done up,0,0,,,,,Fuel oil,,3.0
 10580230,2940,stabroek,house,house,328000,1900.0,3.0,132.0,Installed,0,0.0,0.0,0.0,1.0,0.0,175.0,3.0,0,Good,0,0,297.0,571.0,,F,Pellet,2.0,4.0
 10580227,1180,uccle,apartment,apartment,449000,2014.0,3.0,114.0,Hyper equipped,0,0.0,1.0,8.0,1.0,25.0,,3.0,0,As new,1,1,,151.0,27.0,D,Gas,3.0,6.0
 10580224,1140,evere,apartment,apartment,365000,2008.0,2.0,80.0,USA installed,0,0.0,1.0,10.0,0.0,0.0,,2.0,0,As new,1,1,1406.0,188.0,40.0,D,Gas,2.0,6.0
-10289095,341%2000,chalkida,house,house,340000,2010.0,4.0,270.0,,0,1.0,0.0,0.0,1.0,260.0,,,0,Good,0,0,,,,,Fuel oil,,4.0
 10571007,6200,châtelet,house,house,115000,,3.0,84.0,Not installed,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,To renovate,0,1,,432.0,,F,Gas,0.0,2.0
 10580219,7020,maisières,house,house,250000,,4.0,232.0,,0,0.0,1.0,9.0,1.0,379.0,520.0,3.0,1,Good,0,0,,191.0,,C,Gas,,4.0
-10580218,141%2021,irakleio,apartment,apartment,350000,2008.0,3.0,103.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,1,,,,,Gas,,6.0
 10580216,9160,lokeren,house,house,745000,2008.0,3.0,260.0,Installed,0,0.0,0.0,0.0,1.0,0.0,540.0,4.0,1,As new,0,0,1357.0,91.0,,A,,2.0,6.0
 10580214,8377,zuienkerke,house,house,449000,2023.0,4.0,188.0,Installed,0,0.0,1.0,0.0,0.0,0.0,276.0,3.0,0,As new,0,0,,30.0,,A,,2.0,6.0
 10580213,8377,zuienkerke,house,house,435000,2023.0,4.0,182.0,Installed,0,0.0,1.0,0.0,1.0,0.0,189.0,3.0,0,As new,0,0,,30.0,,A,,2.0,6.0
@@ -3848,13 +3779,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10177518,9700,oudenaarde,house,apartment block,595000,1935.0,7.0,520.0,,0,0.0,1.0,0.0,1.0,0.0,670.0,2.0,0,As new,0,1,1935.0,187.0,6226.0,B,Gas,,6.0
 10579624,1050,ixelles,apartment,apartment,348000,1953.0,1.0,83.0,Hyper equipped,0,0.0,0.0,0.0,0.0,0.0,,,0,To be done up,1,1,1298.0,196.0,51.0,D,Gas,3.0,3.0
 10579623,2230,herselt,house,house,445000,1985.0,3.0,190.0,USA installed,0,0.0,1.0,60.0,1.0,1200.0,1523.0,4.0,0,As new,0,1,,183.0,,B,Gas,2.0,6.0
-10579622,13810,eygalieres,house,villa,5400000,,5.0,370.0,,0,0.0,0.0,0.0,0.0,0.0,6800.0,4.0,0,As new,0,0,,,,,,,6.0
-10579621,13150,tarascon,house,villa,1325000,,7.0,337.0,,0,0.0,0.0,0.0,0.0,0.0,2500.0,4.0,0,Good,0,0,,,,,,,4.0
-10579620,13210,st remy de provence,house,villa,1799000,2012.0,5.0,165.0,,0,0.0,0.0,0.0,0.0,0.0,1320.0,4.0,0,Good,0,0,,,,,,,4.0
-10579619,13810,eygalieres,house,villa,3790000,,4.0,246.0,,1,0.0,0.0,0.0,0.0,0.0,1300.0,4.0,0,As new,0,0,,,,,,,6.0
-10579618,13810,eygalieres,house,villa,3990000,2019.0,4.0,300.0,,0,0.0,0.0,0.0,0.0,0.0,2780.0,4.0,0,As new,0,0,,,,,,,6.0
-10579617,13210,st remy de provence,house,villa,5900000,,6.0,453.0,,0,0.0,0.0,0.0,0.0,0.0,64000.0,4.0,0,As new,0,0,,,,,,,6.0
-10579616,13520,paradou,house,villa,7790000,,5.0,350.0,,1,0.0,0.0,0.0,0.0,0.0,40000.0,4.0,0,As new,0,0,,,,,,,6.0
 10579615,5600,neuville,house,country cottage,300000,,3.0,442.0,Installed,0,0.0,1.0,70.0,1.0,160.0,,4.0,0,Just renovated,0,1,,143.0,30.0,B,Gas,2.0,5.0
 10579614,4000,liège,house,house,450000,,5.0,180.0,Installed,0,0.0,1.0,15.0,1.0,102.0,184.0,2.0,0,As new,0,0,950.0,254.0,48.0,C,Gas,2.0,6.0
 10579613,5020,namur champion,house,house,295000,,3.0,155.0,Installed,0,0.0,1.0,0.0,1.0,9.0,967.0,4.0,0,Good,0,0,651.0,408.0,,E,Gas,2.0,4.0
@@ -4786,7 +4710,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10407264,7170,manage,house,mixed use building,375000,1969.0,2.0,232.0,,0,0.0,1.0,0.0,0.0,0.0,528.0,3.0,0,Good,0,0,2518.0,398.0,100.0,E,Gas,,4.0
 10578198,9000,gent,house,mixed use building,449000,,2.0,213.0,,0,0.0,0.0,0.0,0.0,0.0,213.0,2.0,0,Good,1,1,1723.0,275.0,,C,Gas,,4.0
 10578195,1500,halle,apartment,apartment,421500,2023.0,2.0,108.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,,,,,,
-10578196,03778,beniarbeig,house,villa,645995,2023.0,3.0,150.0,USA hyper equipped,0,0.0,1.0,32.0,0.0,0.0,800.0,4.0,1,As new,0,0,,,,,,3.0,6.0
+10578196,3778,beniarbeig,house,villa,645995,2023.0,3.0,150.0,USA hyper equipped,0,0.0,1.0,32.0,0.0,0.0,800.0,4.0,1,As new,0,0,,,,,,3.0,6.0
 10367514,2018,antwerp,house,mansion,1875000,,5.0,574.0,USA installed,0,0.0,1.0,0.0,1.0,95.0,294.0,2.0,0,To be done up,1,1,3480.0,382.0,,D,Gas,2.0,3.0
 10191818,2900,schoten,house,villa,1950000,2012.0,6.0,670.0,Hyper equipped,1,0.0,1.0,0.0,0.0,0.0,5126.0,4.0,1,As new,0,1,,122.0,,B,,3.0,6.0
 10321052,2560,nijlen,house,villa,1975000,2013.0,6.0,610.0,USA hyper equipped,0,1.0,1.0,140.0,1.0,1836.0,2104.0,4.0,1,As new,1,0,3010.0,134.0,,B,Gas,3.0,6.0
@@ -5509,7 +5433,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10577297,7387,honnelles,house,house,150000,,2.0,61.0,Installed,0,0.0,1.0,0.0,0.0,0.0,138.0,2.0,0,Good,0,0,,288.0,,E,Electric,2.0,4.0
 10577293,9190,stekene,house,house,275000,,3.0,147.0,Installed,0,0.0,0.0,0.0,1.0,282.0,412.0,3.0,0,Good,0,0,319.0,231.0,,C,Gas,2.0,4.0
 10577289,2600,berchem,house,house,289000,,2.0,76.0,Installed,0,0.0,0.0,0.0,0.0,0.0,59.0,2.0,0,Good,0,1,,269.0,,C,Gas,2.0,4.0
-9994927,38632,arona,house,villa,2500000,,6.0,1340.0,Installed,1,0.0,1.0,600.0,1.0,7000.0,8590.0,,1,Good,0,0,,,,,,2.0,4.0
 10577279,8370,blankenberge,house,house,255000,,5.0,166.0,,0,0.0,1.0,0.0,0.0,0.0,97.0,2.0,0,To be done up,0,1,831.0,322.0,,D,,,3.0
 10577277,8930,lauwe,house,house,965000,,4.0,370.0,,0,0.0,1.0,0.0,1.0,925.0,1875.0,,1,Good,0,0,2518.0,74.0,,A,,,4.0
 10577276,8630,avekapelle,house,house,249000,1937.0,3.0,155.0,,0,0.0,0.0,0.0,1.0,67.0,476.0,,0,Good,0,0,,432.0,,E,,,4.0
@@ -6983,14 +6906,11 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10575324,9950,waarschoot,house,house,525000,2011.0,4.0,275.0,Installed,0,0.0,1.0,85.0,1.0,0.0,516.0,3.0,0,As new,0,0,1036.0,99.0,,A,Gas,2.0,6.0
 10575318,8630,veurne,apartment,service flat,198000,2019.0,1.0,67.0,Installed,0,0.0,1.0,0.0,1.0,0.0,,,0,,1,0,,92.3,,A,Gas,2.0,
 10575317,1860,meise,house,house,469000,1980.0,3.0,137.0,,0,0.0,1.0,0.0,1.0,401.0,501.0,3.0,0,,0,0,,,,,,,
-10575315,83310,grimaud,house,villa,4450000,,5.0,260.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,1,,75.0,2.0,,,,
 10536417,8660,de panne,apartment,penthouse,1450000,2021.0,3.0,159.0,Hyper equipped,0,0.0,1.0,76.0,0.0,0.0,,,0,,1,0,,,,,Gas,3.0,
 10561212,2830,willebroek,apartment,penthouse,330000,2023.0,2.0,110.0,USA hyper equipped,1,0.0,1.0,50.0,0.0,0.0,,2.0,0,As new,1,0,,,,,,3.0,6.0
 10566194,3290,diest,house,manor house,506000,,3.0,189.0,,0,0.0,0.0,0.0,1.0,0.0,1488.0,4.0,0,,0,0,,,,,,,
 10575311,2018,antwerp,apartment,apartment,847000,1920.0,3.0,220.0,Installed,0,0.0,1.0,12.0,1.0,4.0,,2.0,0,Good,1,1,880.0,224.0,,C,Fuel oil,2.0,4.0
 10575310,2000,antwerp,house,mansion,697000,1855.0,4.0,250.0,Semi equipped,0,0.0,1.0,8.0,0.0,0.0,62.0,4.0,0,,1,1,1232.0,205.0,,C,Gas,1.0,
-10575299,4524%20AN,sluis,house,house,580000,1926.0,3.0,117.0,,0,0.0,0.0,0.0,0.0,0.0,477.0,4.0,0,Good,0,0,,,,,Gas,,4.0
-10575298,4524%20AN,sluis,house,house,345000,1926.0,3.0,117.0,,0,0.0,0.0,0.0,0.0,0.0,,4.0,0,Good,0,0,,,,,Gas,,4.0
 10575297,9990,maldegem,house,house,479000,1984.0,5.0,256.0,,0,0.0,0.0,0.0,0.0,0.0,610.0,4.0,0,Good,0,0,1065.0,287.0,,C,Gas,,4.0
 10575293,1755,gooik,house,house,380000,2011.0,3.0,130.0,,0,0.0,1.0,0.0,1.0,70.0,189.0,2.0,0,Good,0,0,785.0,136.0,,B,Gas,,4.0
 10575286,2170,antwerpen,apartment,apartment,165000,,1.0,60.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,584.0,296.0,,C,,,4.0
@@ -7091,7 +7011,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10575015,3920,lommel,apartment,apartment,310000,2010.0,3.0,177.0,Installed,0,0.0,1.0,45.0,0.0,0.0,,2.0,0,Good,0,0,1016.0,131.0,,B,Gas,2.0,4.0
 10575012,3870,heers,house,house,315000,1957.0,3.0,174.0,Installed,0,0.0,1.0,0.0,0.0,0.0,470.0,4.0,0,Good,0,0,483.0,230.0,,C,Fuel oil,2.0,4.0
 10575009,3870,heers,apartment,apartment,295000,2012.0,3.0,110.0,Installed,0,0.0,1.0,22.0,0.0,0.0,,,0,Good,1,1,724.0,88.0,,A,Gas,2.0,4.0
-10575008,02140,borgerhout,apartment,apartment,149000,1969.0,2.0,82.0,Installed,0,0.0,1.0,2.0,0.0,0.0,,2.0,0,Good,1,1,823.0,247.0,,,Gas,2.0,4.0
+10575008,2140,borgerhout,apartment,apartment,149000,1969.0,2.0,82.0,Installed,0,0.0,1.0,2.0,0.0,0.0,,2.0,0,Good,1,1,823.0,247.0,,,Gas,2.0,4.0
 10575003,9000,gent,house,house,499000,,4.0,160.0,Installed,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,,0,0,567.0,236.0,,C,Gas,2.0,
 10575001,4460,grace-hollogne,house,house,190000,,4.0,129.0,Installed,0,0.0,1.0,10.0,1.0,346.0,529.0,3.0,0,Good,0,0,,392.0,,E,Fuel oil,2.0,4.0
 10574996,9600,ronse,house,other property,1895000,1928.0,8.0,550.0,Installed,0,1.0,1.0,0.0,0.0,0.0,5432.0,4.0,0,Good,0,0,1876.0,350.0,,D,,2.0,4.0
@@ -8660,7 +8580,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10571860,8300,knokke,house,house,2785000,2023.0,4.0,264.0,Installed,0,0.0,1.0,0.0,1.0,0.0,700.0,4.0,1,As new,0,0,,85.0,,A,,2.0,6.0
 10499509,3050,oud-heverlee,house,house,408000,1939.0,2.0,205.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,180.0,3.0,0,,0,0,1504.0,413.0,,E,Fuel oil,1.0,
 10571854,2800,mechelen,house,house,299000,1900.0,3.0,87.0,Semi equipped,0,0.0,1.0,0.0,1.0,0.0,54.0,2.0,0,Good,0,1,,403.0,,E,Gas,1.0,4.0
-10571853,30710,los alcázares,house,villa,419900,2023.0,3.0,119.0,,0,0.0,1.0,84.0,0.0,0.0,202.0,4.0,0,As new,0,1,,,,,,,6.0
 10571852,3550,heusden-zolder,house,house,390000,2022.0,3.0,197.0,,0,0.0,0.0,0.0,1.0,0.0,545.0,,0,,0,0,5.0,,,,,,
 10571851,3510,hasselt,house,house,345000,1975.0,3.0,137.0,Installed,0,1.0,1.0,0.0,1.0,0.0,408.0,3.0,0,Good,0,0,736.0,114.0,,B,,2.0,4.0
 10571850,8470,gistel,house,house,419000,,5.0,268.0,Installed,0,0.0,1.0,0.0,0.0,0.0,457.0,3.0,0,Good,0,0,624.0,235.0,,C,Gas,2.0,4.0
@@ -9228,7 +9147,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10570775,8434,westende,house,villa,790000,,4.0,310.0,Installed,0,0.0,0.0,0.0,0.0,0.0,876.0,,0,Just renovated,0,0,1197.0,492.0,,E,Electric,2.0,5.0
 10570773,4877,olne,house,house,185000,,3.0,152.0,Not installed,0,0.0,0.0,0.0,1.0,160.0,348.0,2.0,0,To renovate,0,0,,476.0,118.0,F,Fuel oil,0.0,2.0
 10570772,4051,vaux-sous-chèvremont,house,house,115000,,1.0,70.0,Not installed,0,0.0,0.0,0.0,1.0,60.0,250.0,4.0,0,To renovate,0,0,371.0,1265.0,359.0,G,,0.0,2.0
-10570771,4506%20ba,cadzand,house,villa,995000,2018.0,4.0,152.0,,0,0.0,1.0,0.0,1.0,735.0,989.0,4.0,0,Good,0,0,,,,A,,,4.0
 10512239,8550,zwevegem,apartment,apartment,300000,2008.0,2.0,115.0,,0,0.0,1.0,0.0,1.0,16.0,,4.0,0,Good,1,0,993.0,154.0,,B,Gas,,4.0
 10570768,1755,gooik,apartment,ground floor,250000,2010.0,2.0,90.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,508.0,139.0,,B,Gas,,4.0
 10570765,9750,kruisem,apartment,apartment,322000,2023.0,1.0,86.0,,0,0.0,1.0,20.0,1.0,17.0,,,0,Good,1,0,,,,,,,4.0
@@ -9842,7 +9760,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10569669,3600,genk,house,house,375000,1983.0,4.0,213.0,,0,0.0,1.0,0.0,1.0,0.0,1136.0,,0,To be done up,0,1,1380.0,483.0,,E,Electric,,3.0
 10569668,9000,gent,house,house,295000,,2.0,124.0,,0,0.0,0.0,0.0,0.0,0.0,124.0,,0,,0,0,,323.0,,D,,,
 10569666,9940,evergem,house,house,421000,2023.0,3.0,130.0,,0,0.0,1.0,0.0,0.0,0.0,451.0,,0,,0,0,,,,,,,
-10569663,190050,assilah,house,villa,619000,2019.0,8.0,440.0,Hyper equipped,1,0.0,1.0,244.0,1.0,1300.0,1500.0,4.0,1,As new,0,0,,,,,,3.0,6.0
 10569661,9300,aalst,house,house,435000,1960.0,4.0,298.0,,0,0.0,1.0,0.0,0.0,0.0,314.0,,0,,0,0,1323.0,354.0,,D,,,
 10569658,9900,eeklo,house,house,425000,,4.0,267.0,,0,1.0,0.0,0.0,1.0,0.0,800.0,,0,To renovate,0,1,,499.0,,E,,,2.0
 10569657,6940,durbuy,house,house,190000,,5.0,150.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,Good,0,0,,398.0,,E,Fuel oil,,4.0
@@ -10032,7 +9949,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10569335,1020,laeken,apartment,triplex,225000,1933.0,3.0,170.0,,0,1.0,1.0,24.0,0.0,0.0,,,0,To renovate,0,0,,600.0,120.0,G,Gas,,2.0
 10569332,8630,beauvoorde,house,country cottage,1240000,,4.0,273.0,USA installed,0,1.0,0.0,0.0,1.0,0.0,16591.0,,0,,0,0,,169.0,,B,,2.0,
 10569331,2800,mechelen,apartment,apartment,229000,1976.0,3.0,93.0,Semi equipped,0,0.0,1.0,0.0,0.0,0.0,,2.0,0,Good,1,0,1145.0,205.0,,C,Gas,1.0,4.0
-10569327,83420,la croix-valmer,house,villa,2490000,1975.0,4.0,180.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,,,,,,
 10569324,1860,meise,house,house,730000,1918.0,4.0,390.0,Installed,0,0.0,1.0,60.0,1.0,0.0,1043.0,3.0,0,Good,0,1,,220.0,,C,Gas,2.0,4.0
 10569321,4000,rocourt,apartment,apartment,139000,1978.0,2.0,86.0,Not installed,0,0.0,0.0,0.0,0.0,0.0,,3.0,0,To be done up,0,0,865.0,429.0,122.0,F,Electric,0.0,3.0
 10569320,9050,gent,house,house,357000,1952.0,3.0,158.0,Installed,0,0.0,1.0,0.0,1.0,0.0,174.0,2.0,0,,0,0,426.0,244.0,,C,Gas,2.0,
@@ -10057,8 +9973,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10569282,2018,antwerp,apartment,apartment,299000,1963.0,2.0,100.0,Installed,0,0.0,1.0,6.0,0.0,0.0,,2.0,0,Good,1,1,1117.0,168.0,,B,Gas,2.0,4.0
 10569281,2610,wilrijk,apartment,apartment,175000,1972.0,2.0,91.0,Installed,0,0.0,1.0,16.0,0.0,0.0,,2.0,0,To renovate,1,0,919.0,205.0,,C,Gas,2.0,2.0
 10569280,2650,edegem,house,house,565000,1931.0,4.0,170.0,,0,0.0,0.0,0.0,1.0,23.0,85.0,14.0,0,Good,0,0,505.0,,,,,,4.0
-10569278,04508,waterlandkerkje,house,farmhouse,1395000,,5.0,196.0,,0,0.0,0.0,0.0,0.0,0.0,5756.0,4.0,0,Good,0,0,,,,G,,,4.0
-10569277,4508%20KA,waterlandkerkje,house,farmhouse,3000000,1850.0,5.0,196.0,,0,0.0,0.0,0.0,0.0,0.0,11376.0,4.0,0,Good,0,0,,,,G,,,4.0
+10569278,4508,waterlandkerkje,house,farmhouse,1395000,,5.0,196.0,,0,0.0,0.0,0.0,0.0,0.0,5756.0,4.0,0,Good,0,0,,,,G,,,4.0
 10569275,8210,zedelgem,house,house,445075,2023.0,4.0,175.0,,0,0.0,1.0,0.0,0.0,0.0,597.0,2.0,0,Good,0,0,,,,,,,4.0
 10569268,9100,sint-niklaas,house,house,329000,,3.0,148.0,Installed,0,0.0,1.0,15.0,1.0,210.0,289.0,2.0,0,,0,0,431.0,213.0,,C,Gas,2.0,
 10569264,6791,athus,apartment,apartment,338500,2013.0,2.0,92.0,USA hyper equipped,1,0.0,1.0,5.0,1.0,0.0,,2.0,0,As new,0,1,890.0,87.0,18.0,B,Gas,3.0,6.0
@@ -10896,7 +10811,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10567551,9100,sint-niklaas,house,house,339000,,3.0,172.0,,0,0.0,1.0,0.0,1.0,0.0,141.0,,0,As new,0,0,810.0,154.0,,B,Gas,,6.0
 10567527,1020,bruxelles,apartment,apartment,175000,1964.0,2.0,77.0,,0,0.0,1.0,0.0,0.0,0.0,,2.0,0,To renovate,1,0,,375.0,98.0,G,Fuel oil,,2.0
 10567525,2060,antwerp,apartment,apartment,197000,1964.0,2.0,72.0,,0,0.0,1.0,2.0,0.0,0.0,,2.0,0,,1,1,951.0,186.0,,B,Gas,,
-10567523,30710,los alcazares,apartment,apartment,189000,2018.0,3.0,75.0,USA hyper equipped,1,0.0,1.0,75.0,0.0,0.0,,2.0,1,As new,0,1,,,,,,3.0,6.0
 10567522,3300,tienen,house,house,235000,,5.0,168.0,,0,0.0,1.0,0.0,0.0,0.0,439.0,4.0,0,To renovate,0,0,,556.0,,F,,,2.0
 10567521,2340,beerse,house,villa,749000,1949.0,6.0,336.0,Semi equipped,0,1.0,1.0,20.0,1.0,1150.0,1182.0,4.0,0,To be done up,0,1,2079.0,410.0,1000.0,E,,1.0,3.0
 10567520,2660,hoboken,house,house,375000,,3.0,155.0,Hyper equipped,0,0.0,1.0,25.0,1.0,95.0,180.0,,0,Just renovated,0,0,,137.0,,B,Gas,3.0,5.0
@@ -10986,7 +10900,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10567382,8210,loppem,apartment,apartment,390000,2023.0,2.0,110.0,Installed,0,0.0,1.0,28.0,0.0,0.0,,3.0,0,As new,1,0,,,,,,2.0,6.0
 10567381,8000,brugge,apartment,ground floor,299000,,2.0,74.0,Installed,0,0.0,1.0,10.0,0.0,0.0,,2.0,0,Good,1,0,800.0,237.0,,C,Gas,2.0,4.0
 10567377,1000,brussels city,apartment,apartment,499000,2017.0,3.0,143.0,Hyper equipped,0,0.0,1.0,0.0,0.0,0.0,,4.0,0,As new,1,0,,60.0,,B,Gas,3.0,6.0
-10567376,33400,talence,house,house,540000,1994.0,4.0,100.0,Hyper equipped,0,0.0,1.0,26.0,0.0,0.0,103.0,2.0,0,,0,0,,,,,,3.0,
 10567375,5031,grand-leez,house,apartment block,499000,,9.0,355.0,,0,0.0,0.0,0.0,1.0,0.0,1151.0,3.0,0,Good,0,0,2300.0,482.0,,F,,,4.0
 10567373,5031,grand-leez,house,house,499000,,9.0,355.0,,0,0.0,0.0,0.0,1.0,0.0,1151.0,3.0,0,Good,0,0,2300.0,482.0,,F,,,4.0
 10567369,2600,berchem,apartment,apartment,299000,1975.0,4.0,140.0,Installed,0,0.0,1.0,26.0,0.0,0.0,,,0,Good,1,1,,132.0,,B,Electric,2.0,4.0
@@ -11144,7 +11057,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10566989,1348,ottignies-louvain-la-neuve louvain-la-neuve,house,exceptional property,780000,1899.0,4.0,160.0,USA installed,0,0.0,0.0,0.0,0.0,0.0,1417.0,4.0,1,Good,0,1,,423.0,,E,Electric,2.0,4.0
 10566986,5022,cognelée,house,house,375000,,4.0,160.0,Installed,0,0.0,1.0,57.0,1.0,500.0,750.0,4.0,0,Good,0,1,696.0,400.0,99.0,E,Fuel oil,2.0,4.0
 10566985,2830,willebroek,house,house,345000,1954.0,3.0,100.0,Installed,0,0.0,1.0,0.0,0.0,0.0,260.0,3.0,0,Good,0,1,409.0,330.0,,D,Gas,2.0,4.0
-10566979,17480,roses,house,exceptional property,1350000,,4.0,259.0,,0,0.0,1.0,0.0,0.0,0.0,1227.0,4.0,1,Good,0,0,,359.0,94.0,,,,4.0
 10512883,4000,liège,apartment,duplex,110000,1930.0,1.0,62.0,Semi equipped,0,0.0,1.0,10.0,1.0,55.0,,2.0,0,Good,0,1,440.0,325.0,,D,Gas,1.0,4.0
 10034990,2140,borgerhout,apartment,flat studio,156000,2018.0,1.0,32.0,,0,0.0,0.0,0.0,1.0,14.0,,2.0,0,As new,0,0,,133.0,,B,,,6.0
 10428927,2560,kessel,apartment,duplex,274000,2003.0,2.0,125.0,Installed,0,0.0,1.0,24.0,0.0,0.0,,2.0,0,Good,0,0,,233.0,,C,Gas,2.0,4.0
@@ -11209,10 +11121,10 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10408573,2060,antwerp,house,town house,189000,,2.0,144.0,,0,0.0,0.0,0.0,1.0,16.0,,2.0,0,To renovate,0,1,632.0,739.0,,F,Gas,,2.0
 10566845,6230,viesville,house,house,249000,1930.0,4.0,160.0,Hyper equipped,0,0.0,0.0,0.0,1.0,300.0,580.0,3.0,0,As new,0,0,,286.0,53.0,D,Gas,3.0,6.0
 10474664,7110,la louvière houdeng-goegnies,house,house,95000,1918.0,3.0,116.0,Semi equipped,0,0.0,1.0,6.0,0.0,0.0,90.0,2.0,0,To be done up,0,1,436.0,478.0,91.0,F,Gas,1.0,3.0
-10566817,03570,villajoyosa,apartment,apartment,540000,2023.0,2.0,81.0,USA hyper equipped,0,0.0,1.0,80.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
-10566815,03570,villajoyosa,apartment,apartment,515000,2023.0,2.0,95.0,USA hyper equipped,0,0.0,1.0,31.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
-10566814,03570,villajoyosa,apartment,apartment,509000,2023.0,2.0,75.0,USA hyper equipped,0,0.0,1.0,20.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
-10566813,03570,villajoyosa,apartment,apartment,529000,2023.0,2.0,94.0,USA hyper equipped,0,0.0,1.0,26.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
+10566817,3570,villajoyosa,apartment,apartment,540000,2023.0,2.0,81.0,USA hyper equipped,0,0.0,1.0,80.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
+10566815,3570,villajoyosa,apartment,apartment,515000,2023.0,2.0,95.0,USA hyper equipped,0,0.0,1.0,31.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
+10566814,3570,villajoyosa,apartment,apartment,509000,2023.0,2.0,75.0,USA hyper equipped,0,0.0,1.0,20.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
+10566813,3570,villajoyosa,apartment,apartment,529000,2023.0,2.0,94.0,USA hyper equipped,0,0.0,1.0,26.0,0.0,0.0,,4.0,1,As new,1,0,,,,,,3.0,6.0
 10566811,3012,leuven,apartment,apartment,290000,1976.0,2.0,90.0,USA installed,0,0.0,1.0,6.0,0.0,0.0,,2.0,0,Good,0,0,,154.0,,B,Gas,2.0,4.0
 10566807,6717,attert,house,house,670000,2018.0,3.0,213.0,Installed,0,0.0,0.0,0.0,1.0,0.0,769.0,4.0,0,Good,0,1,,128.0,26.0,B,Gas,2.0,4.0
 10566806,6700,arlon,house,house,640000,1997.0,4.0,236.0,Installed,0,1.0,0.0,0.0,1.0,0.0,1080.0,4.0,0,Good,0,1,,233.0,,C,Fuel oil,2.0,4.0
@@ -11491,7 +11403,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10189029,1400,nivelles,house,exceptional property,649000,,5.0,310.0,,0,1.0,1.0,50.0,0.0,0.0,3919.0,4.0,0,Just renovated,0,1,,546.0,,G,Electric,,5.0
 10448474,1040,etterbeek,house,apartment block,725000,1950.0,6.0,200.0,Installed,0,0.0,1.0,65.0,1.0,65.0,130.0,2.0,0,Good,0,1,,,46.0,,Gas,2.0,4.0
 10566432,7020,nimy,house,house,145000,,4.0,145.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,240.0,2.0,0,To renovate,0,1,537.0,482.0,99.0,F,Gas,1.0,2.0
-10566431,30740,san pedro del pinatar,house,bungalow,199000,,2.0,20.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
 10566402,8830,hooglede,house,house,199000,,4.0,253.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,197.0,3.0,0,To renovate,0,0,383.0,764.0,,F,,1.0,2.0
 10549341,3920,lommel,house,house,305000,1992.0,2.0,205.0,Installed,0,1.0,0.0,0.0,1.0,0.0,522.0,4.0,0,,0,0,779.0,264.0,,C,Fuel oil,2.0,
 10549338,3920,lommel,house,house,265000,1950.0,3.0,174.0,Installed,0,0.0,1.0,45.0,1.0,650.0,980.0,4.0,0,To be done up,0,1,,396.0,,D,Gas,2.0,3.0
@@ -11628,7 +11539,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10502400,4460,velroux,house,villa,370000,2002.0,3.0,217.0,Installed,0,0.0,1.0,43.0,0.0,0.0,991.0,4.0,0,As new,0,1,852.0,163.0,41.0,B,Fuel oil,2.0,6.0
 10566208,3220,holsbeek,house,house,575000,1918.0,4.0,280.0,Hyper equipped,0,0.0,0.0,0.0,0.0,0.0,2372.0,4.0,0,To be done up,0,0,1126.0,405.0,,E,Fuel oil,3.0,3.0
 10566202,5100,dave,house,house,260000,,3.0,125.0,Semi equipped,0,0.0,1.0,0.0,1.0,355.0,465.0,2.0,0,Good,0,1,355.0,352.0,,E,Fuel oil,1.0,4.0
-10566200,30340,saint-privat-des-vieux,house,house,345000,,4.0,133.0,,0,0.0,1.0,0.0,0.0,0.0,2140.0,4.0,1,Good,0,0,,151.0,,,Electric,,4.0
 10566198,1730,asse,house,house,279000,1937.0,2.0,221.0,USA installed,0,0.0,1.0,0.0,1.0,58.0,150.0,2.0,0,Good,0,0,932.0,500.0,,E,Gas,2.0,4.0
 10566197,3220,holsbeek,house,house,657000,,3.0,206.0,,0,0.0,1.0,0.0,1.0,1292.0,,4.0,0,,0,0,,,,,,,
 10566195,1570,galmaarden,house,house,349000,1957.0,3.0,160.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,1330.0,3.0,0,To be done up,0,1,749.0,566.0,,F,Gas,1.0,3.0
@@ -12165,7 +12075,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10565536,8300,knokke,apartment,apartment,2500000,1966.0,2.0,107.0,,0,0.0,1.0,0.0,1.0,0.0,,,0,,1,1,,156.0,,B,Gas,,
 10565535,8300,knokke,apartment,apartment,3995000,1998.0,4.0,230.0,,0,0.0,1.0,0.0,1.0,0.0,,,1,,1,1,,351.0,,D,Electric,,
 10565531,2500,lier,house,house,419000,1971.0,3.0,216.0,,0,0.0,0.0,0.0,0.0,0.0,747.0,,0,As new,0,0,,,,,,,6.0
-10565521,03170,ciudad quesada,house,villa,679900,2024.0,3.0,150.0,,0,0.0,1.0,0.0,0.0,0.0,530.0,,1,,0,0,,,,,,,
+10565521,3170,ciudad quesada,house,villa,679900,2024.0,3.0,150.0,,0,0.0,1.0,0.0,0.0,0.0,530.0,,1,,0,0,,,,,,,
 10565520,1350,orp-jauche,house,house,389000,2019.0,3.0,190.0,,0,0.0,0.0,0.0,1.0,450.0,648.0,,0,,0,0,,115.0,115.0,B,,,
 10565519,3630,maasmechelen,apartment,apartment,150000,1988.0,2.0,82.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,162.0,,B,,,
 10565518,3630,maasmechelen,apartment,apartment,150000,1988.0,2.0,82.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,142.0,,B,,,
@@ -12589,17 +12499,14 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10564939,2050,antwerp,house,house,495000,1979.0,6.0,240.0,Installed,0,0.0,0.0,0.0,1.0,150.0,290.0,3.0,0,Good,0,0,1745.0,206.0,,C,Gas,2.0,4.0
 10122090,7534,barry,house,house,149000,,2.0,133.0,Semi equipped,0,0.0,0.0,0.0,1.0,500.0,650.0,4.0,0,To restore,0,0,,681.0,170.0,G,Fuel oil,1.0,1.0
 10564929,1030,schaerbeek,apartment,apartment,275000,2004.0,2.0,95.0,Hyper equipped,0,0.0,1.0,14.0,0.0,0.0,,,0,Good,1,1,1186.0,204.0,41.0,D,Gas,3.0,4.0
-10564921,03177,san fulgencio,house,villa,369900,,3.0,260.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564920,03177,san fulgencio,house,villa,289900,,3.0,175.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564919,03190,pilar de la horadada,house,bungalow,335000,,3.0,70.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564917,03193,san miguel de salinas,house,villa,399000,,3.0,280.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564913,03189,orihuela costa,house,villa,275000,,2.0,128.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564912,03169,algorfa,house,bungalow,216000,,2.0,17.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564910,30720,santiago de la ribera,house,villa,589900,,3.0,350.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564909,30720,santiago de la ribera,house,villa,524900,,3.0,310.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564908,03170,rojales,house,villa,679900,,3.0,530.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564905,30740,san pedro del pinatar,house,bungalow,269950,,3.0,35.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564903,03300,orihuela,house,villa,700000,,3.0,625.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564921,3177,san fulgencio,house,villa,369900,,3.0,260.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564920,3177,san fulgencio,house,villa,289900,,3.0,175.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564919,3190,pilar de la horadada,house,bungalow,335000,,3.0,70.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564917,3193,san miguel de salinas,house,villa,399000,,3.0,280.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564913,3189,orihuela costa,house,villa,275000,,2.0,128.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564912,3169,algorfa,house,bungalow,216000,,2.0,17.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564908,3170,rojales,house,villa,679900,,3.0,530.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564903,3300,orihuela,house,villa,700000,,3.0,625.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
 10575249,9255,buggenhout,house,villa,524000,,3.0,145.0,,0,0.0,1.0,30.0,1.0,800.0,970.0,4.0,0,As new,0,1,1037.0,355.0,,D,Gas,,6.0
 10477177,7110,la louvière,apartment,penthouse,350000,2023.0,3.0,150.0,Hyper equipped,0,0.0,1.0,31.0,1.0,354.0,,4.0,0,As new,1,1,,,,,,3.0,6.0
 10393248,2480,dessel,apartment,penthouse,430500,2021.0,2.0,158.0,Installed,0,0.0,1.0,31.0,1.0,0.0,,3.0,0,As new,1,0,,,,,,2.0,6.0
@@ -12627,10 +12534,8 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10530542,7830,silly,house,villa,595000,1999.0,4.0,205.0,Hyper equipped,0,0.0,1.0,80.0,1.0,550.0,975.0,4.0,1,As new,0,0,1100.0,262.0,69.0,D,Fuel oil,3.0,6.0
 10317321,2310,rijkevorsel,house,town house,645000,1970.0,6.0,457.0,Hyper equipped,0,0.0,1.0,0.0,0.0,0.0,1980.0,4.0,0,,1,1,1122.0,208.0,,C,Fuel oil,3.0,
 10478663,2430,laakdal,house,villa,645000,2007.0,4.0,378.0,,0,0.0,1.0,23.0,0.0,0.0,856.0,4.0,0,Good,0,0,1791.0,117.0,,B,,,4.0
-10564902,30155,baÑos y mendigo,house,house,195000,,2.0,144.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564901,30740,san pedro del pinatar,apartment,ground floor,450000,,3.0,19.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564899,03190,pilar de la horadada,house,house,284900,,3.0,33.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
-10564898,03140,guardamar del segura,apartment,ground floor,277000,,3.0,46.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564899,3190,pilar de la horadada,house,house,284900,,3.0,33.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10564898,3140,guardamar del segura,apartment,ground floor,277000,,3.0,46.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
 10564870,3800,sint-truiden,house,house,285000,2010.0,2.0,143.0,,0,0.0,0.0,0.0,1.0,0.0,118.0,3.0,0,,0,0,743.0,259.0,,C,Gas,,
 10564869,5020,namur champion,apartment,duplex,199000,,2.0,100.0,USA installed,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,594.0,550.0,101.0,G,,2.0,6.0
 10564868,5000,namur,apartment,duplex,199000,,2.0,100.0,USA installed,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,594.0,550.0,101.0,G,,2.0,6.0
@@ -12915,7 +12820,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10564333,4100,seraing,house,house,245000,,3.0,135.0,,0,0.0,1.0,30.0,0.0,0.0,173.0,,0,,0,1,743.0,289.0,,D,,,
 10564331,4100,seraing,house,house,165000,,2.0,95.0,,0,0.0,1.0,16.0,1.0,0.0,182.0,,0,,0,0,344.0,392.0,,E,,,
 10564326,4350,remicourt,house,house,369000,2000.0,4.0,150.0,Installed,0,0.0,0.0,0.0,0.0,0.0,757.0,4.0,0,Good,0,1,887.0,356.0,88.0,E,Fuel oil,2.0,4.0
-10564324,4525%20AG,retranchement,house,house,759000,1887.0,3.0,96.0,,0,0.0,1.0,0.0,0.0,0.0,719.0,3.0,0,Good,0,0,,,,,,,4.0
 10184655,3900,pelt,house,farmhouse,395000,1974.0,4.0,190.0,,0,0.0,0.0,0.0,0.0,0.0,1158.0,4.0,0,Good,0,0,1246.0,405.0,,E,Electric,,4.0
 10509712,4120,neupre,house,bungalow,400000,1972.0,3.0,141.0,USA installed,0,0.0,1.0,25.0,1.0,1000.0,1614.0,4.0,0,As new,0,0,1075.0,568.0,72.0,G,Fuel oil,2.0,6.0
 10330221,1070,anderlecht,house,town house,410000,1992.0,3.0,205.0,,0,0.0,1.0,4.0,1.0,59.0,118.0,2.0,0,,0,0,1648.0,120.0,24.0,C,Gas,,
@@ -13084,7 +12988,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10564013,1050,ixelles,house,house,1790000,1920.0,9.0,450.0,,0,0.0,0.0,0.0,1.0,140.0,275.0,2.0,0,To renovate,0,1,,424.0,,G,Gas,,2.0
 10564012,1180,uccle,apartment,apartment,2990000,,2.0,314.0,,0,0.0,1.0,380.0,0.0,0.0,,4.0,0,As new,1,1,,287.0,,F,Gas,,6.0
 10506888,1840,londerzeel,house,house,299000,1969.0,3.0,178.0,,0,0.0,0.0,0.0,0.0,0.0,372.0,4.0,0,To renovate,0,1,872.0,761.0,,F,,,2.0
-10564004,14880,marbella,house,villa,2150000,2023.0,4.0,320.0,Hyper equipped,1,0.0,1.0,190.0,1.0,113.0,,4.0,1,,0,1,,,,,,3.0,
 10563993,9200,dendermonde,house,house,344000,1965.0,3.0,179.0,,0,0.0,1.0,0.0,0.0,0.0,211.0,2.0,1,As new,0,1,593.0,229.0,,C,Gas,,6.0
 10563990,9200,dendermonde baasrode,apartment,apartment,212800,2022.0,1.0,76.0,Hyper equipped,0,0.0,1.0,12.0,0.0,0.0,,,0,As new,1,0,,,,,,3.0,6.0
 10563988,9200,dendermonde baasrode,apartment,apartment,317500,2022.0,3.0,127.0,Hyper equipped,0,0.0,1.0,16.0,0.0,0.0,,,0,As new,1,0,,,,,,3.0,6.0
@@ -13652,8 +13555,7 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10562889,1060,saint-gilles,apartment,apartment,535000,,3.0,144.0,,0,0.0,1.0,5.0,0.0,0.0,,2.0,0,Just renovated,0,0,,,,,Gas,,5.0
 10562888,1880,kapelle-op-den-bos,house,house,379000,,3.0,125.0,,0,0.0,1.0,0.0,1.0,0.0,,2.0,0,Good,0,0,,218.0,,C,Gas,,4.0
 10562887,1200,woluwe-saint-lambert,apartment,ground floor,245000,1976.0,1.0,59.0,USA installed,0,0.0,1.0,20.0,0.0,0.0,,2.0,0,Good,1,0,,276.0,,F,Gas,2.0,4.0
-10562884,30710,santa rosalia,house,villa,419900,2024.0,3.0,120.0,,0,0.0,1.0,0.0,0.0,0.0,208.0,,1,,0,0,,,,,,,
-10562883,03140,guardamar del segura,apartment,apartment,249000,2024.0,2.0,78.0,,0,0.0,1.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
+10562883,3140,guardamar del segura,apartment,apartment,249000,2024.0,2.0,78.0,,0,0.0,1.0,0.0,0.0,0.0,,,1,,0,0,,,,,,,
 10562882,8880,st-eloois-winkel,house,house,284000,1965.0,3.0,155.0,Hyper equipped,0,0.0,1.0,40.0,1.0,125.0,240.0,2.0,0,As new,0,0,329.0,288.0,,C,Gas,3.0,6.0
 10562878,8400,oostende,apartment,apartment,245000,1990.0,2.0,85.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,0,0,887.0,,,,,,
 10562875,8670,sint-idesbald,house,house,375000,1933.0,3.0,96.0,Installed,0,0.0,0.0,0.0,0.0,0.0,242.0,,0,To renovate,0,0,572.0,664.0,,F,,2.0,2.0
@@ -13701,7 +13603,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10562818,2880,bornem,house,house,245000,1933.0,2.0,100.0,,0,0.0,1.0,10.0,1.0,75.0,220.0,3.0,0,To renovate,0,1,520.0,634.0,,F,,,2.0
 10562815,1000,brussels city,apartment,apartment,585000,,3.0,138.0,USA installed,0,0.0,1.0,6.0,0.0,0.0,,,0,Just renovated,0,1,,222.0,,E,,2.0,5.0
 10562809,5060,tamines,house,house,349000,,4.0,250.0,Installed,0,0.0,0.0,0.0,0.0,0.0,440.0,2.0,0,As new,0,0,,506.0,,F,Fuel oil,2.0,6.0
-10390336,83420,la croix-valmer,house,house,3750000,1964.0,5.0,250.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,0,0,,115.0,3.0,,,,
 10562799,2390,malle,apartment,apartment,299900,1998.0,1.0,102.0,,0,0.0,1.0,30.0,0.0,0.0,,2.0,0,Good,0,0,912.0,381.0,,D,,,4.0
 10562794,9000,gent,house,house,489000,,3.0,135.0,,0,0.0,0.0,0.0,1.0,40.0,110.0,2.0,0,As new,0,0,,111.0,,B,,,6.0
 10532819,8792,desselgem,house,villa,513000,2022.0,3.0,220.0,Hyper equipped,0,0.0,0.0,0.0,1.0,0.0,405.0,4.0,0,As new,0,0,,,,,Solar,3.0,6.0
@@ -13968,7 +13869,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10562252,8620,nieuwpoort,house,house,395000,,2.0,170.0,,0,0.0,0.0,0.0,0.0,0.0,315.0,4.0,0,,0,0,421.0,419.0,,E,,,
 10562251,7180,seneffe,apartment,ground floor,245000,,2.0,106.0,Hyper equipped,0,0.0,1.0,10.0,0.0,0.0,,2.0,0,As new,0,0,484.0,167.0,31.0,B,Gas,3.0,6.0
 10562238,1020,laeken,apartment,apartment,269900,1965.0,3.0,100.0,Installed,0,0.0,1.0,8.0,0.0,0.0,,2.0,0,,1,0,1214.0,522.0,104.0,G,Gas,2.0,
-10376634,30648,macisvenda,house,villa,649995,2016.0,4.0,420.0,Installed,0,0.0,1.0,0.0,0.0,0.0,13416.0,4.0,1,,0,0,,,,,Gas,2.0,
 10562235,2830,willebroek,apartment,duplex,305000,,3.0,140.0,Hyper equipped,0,0.0,1.0,19.0,0.0,0.0,,,0,,1,0,,146.0,,B,Gas,3.0,
 10322935,4000,liege,house,mixed use building,355000,,4.0,303.0,Installed,0,0.0,1.0,10.0,0.0,0.0,201.0,2.0,0,To renovate,0,1,2801.0,481.0,,F,Gas,2.0,2.0
 10533107,8420,de haan,house,villa,1000000,1919.0,7.0,305.0,,0,0.0,0.0,0.0,1.0,0.0,759.0,4.0,0,,0,1,,,,,Gas,,
@@ -14629,7 +14529,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10560759,9660,brakel,house,house,375000,2023.0,3.0,148.0,USA hyper equipped,0,0.0,1.0,20.0,0.0,0.0,214.0,2.0,0,,0,0,,20.0,,A,Gas,3.0,
 10560758,9660,brakel,house,house,390000,2023.0,3.0,144.0,USA hyper equipped,0,0.0,1.0,22.0,0.0,0.0,249.0,2.0,0,,0,0,,20.0,,A,Gas,3.0,
 10560757,9660,brakel,house,house,465000,2023.0,3.0,222.0,USA hyper equipped,0,0.0,1.0,22.0,0.0,0.0,235.0,2.0,0,,0,0,,20.0,,A,Gas,3.0,
-10560749,29602,marbella,house,villa,2150000,2023.0,4.0,320.0,USA hyper equipped,1,0.0,1.0,259.0,1.0,113.0,507.0,4.0,1,As new,0,1,,,,,,3.0,6.0
 10560748,9800,deinze,apartment,apartment,625000,1994.0,3.0,246.0,USA hyper equipped,0,0.0,1.0,27.0,0.0,0.0,,4.0,0,Good,1,0,,186.0,9.0,B,Gas,3.0,4.0
 10560742,2610,antwerp,house,house,595000,,4.0,285.0,USA hyper equipped,0,0.0,0.0,0.0,1.0,30.0,133.0,2.0,0,As new,1,0,,131.0,,B,Gas,3.0,6.0
 10560734,4900,spa,house,house,395000,,4.0,181.0,Installed,0,0.0,0.0,0.0,1.0,671.0,765.0,4.0,0,Good,0,1,1074.0,274.0,,D,Fuel oil,2.0,4.0
@@ -14850,22 +14749,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10560465,2018,antwerp,apartment,apartment,350000,,2.0,80.0,,0,0.0,1.0,10.0,0.0,0.0,,,0,,0,0,,141.0,,B,,,
 10560452,1331,rosières,house,house,629000,1950.0,4.0,235.0,,0,0.0,0.0,0.0,0.0,0.0,,4.0,1,Good,0,0,2166.0,334.0,61.0,D,Gas,,4.0
 10560419,2560,nijlen,house,house,375000,2023.0,3.0,120.0,Installed,0,0.0,1.0,21.0,0.0,0.0,,2.0,0,As new,0,0,,,,,Electric,2.0,6.0
-10560418,174%2055,alimos,apartment,duplex,795000,,3.0,154.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
-10560416,174%2055,alimos,apartment,duplex,655000,,3.0,136.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
-10560415,174%2055,alimos,apartment,apartment,615000,,2.0,136.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
-10560414,174%2055,alimos,apartment,ground floor,595000,,3.0,136.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
-10560413,166%2073,voula,apartment,apartment,2700000,,3.0,187.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,,1,0,,,,,,,
-10560412,166%2073,voula,apartment,apartment,2500000,,3.0,187.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,,1,0,,,,,,,
-10560411,340%2008,eretria,apartment,apartment,65000,2010.0,2.0,74.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,0,0,,,,,Electric,,
-10560410,100000,neos kosmos,apartment,apartment,125000,1975.0,1.0,55.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
-10560409,152%2031,chalandri,apartment,apartment,338000,2008.0,2.0,75.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560408,346%2000,nea artaki,apartment,apartment,165000,1999.0,2.0,81.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
-10560406,340%2007,skiros,house,house,250000,1988.0,2.0,97.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,Fuel oil,,4.0
-10560405,166%2074,glyfada,apartment,apartment,900000,2023.0,3.0,207.0,,0,1.0,1.0,80.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560404,166%2074,glyfada,apartment,apartment,800000,2023.0,3.0,128.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560403,166%2074,glyfada,apartment,apartment,750000,2023.0,3.0,128.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560402,166%2074,glyfada,apartment,apartment,700000,2023.0,3.0,126.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560401,166%2074,glyfada,house,house,2500000,2023.0,5.0,280.0,,0,1.0,0.0,0.0,1.0,200.0,,,1,As new,1,0,,,,,Gas,,6.0
 10393955,4653,bolland,house,apartment block,2850000,,10.0,1750.0,Installed,0,0.0,1.0,150.0,0.0,0.0,116261.0,4.0,0,,0,0,,,,,Fuel oil,2.0,
 10583270,1380,ohain,house,country cottage,500000,,4.0,190.0,Installed,0,1.0,0.0,0.0,0.0,0.0,3000.0,3.0,0,Good,0,0,,217.0,,C,Fuel oil,2.0,4.0
 10527679,4170,comblain-au-pont,apartment,duplex,295000,2023.0,2.0,130.0,Installed,0,0.0,1.0,0.0,0.0,0.0,,,0,As new,0,0,,,,B,,2.0,6.0
@@ -14886,32 +14769,9 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10518738,3140,keerbergen,house,villa,495000,1931.0,3.0,290.0,,0,1.0,0.0,0.0,0.0,0.0,1509.0,,0,As new,0,0,1311.0,343.0,,D,,,6.0
 9423934,7973,beloeil stambruges,house,mansion,580000,,9.0,500.0,Installed,0,0.0,1.0,0.0,0.0,0.0,2700.0,3.0,1,As new,0,1,,312.0,,D,Fuel oil,2.0,6.0
 10507264,4000,liège,house,mansion,660000,,5.0,460.0,Semi equipped,0,1.0,1.0,30.0,0.0,0.0,140.0,2.0,0,As new,0,1,2900.0,,,C,Gas,1.0,6.0
-10560400,145%2064,kifissia,apartment,apartment,270000,1967.0,3.0,125.0,,0,0.0,0.0,0.0,1.0,150.0,,,0,Good,0,0,,,,,,,4.0
-10560399,145%2064,kifissia,house,house,370000,2010.0,3.0,160.0,,0,1.0,0.0,0.0,1.0,45.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10560396,19015,oropos,house,house,200000,,3.0,176.0,,1,1.0,1.0,100.0,0.0,0.0,250.0,,0,Good,0,0,,,,,Fuel oil,,4.0
 10560395,9000,gent,house,house,395000,1918.0,4.0,150.0,,0,0.0,0.0,0.0,1.0,0.0,80.0,,0,As new,0,0,349.0,274.0,,C,,,6.0
-10560394,34150,chalkida,house,villa,350000,,4.0,180.0,,1,1.0,0.0,0.0,0.0,0.0,1000.0,,0,As new,0,0,,,,,Electric,,6.0
-10560393,145%2061,kifissia,apartment,apartment,170000,1969.0,2.0,70.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Gas,,6.0
-10560389,11527,goudi,apartment,apartment,250000,1969.0,2.0,77.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10560388,152%2031,chalandri,apartment,apartment,190000,1982.0,3.0,145.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,,1,0,,,,,,,
-10560387,151%2021,pefki,apartment,apartment,150000,,1.0,50.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10560385,146%2071,nea erythraia,apartment,ground floor,280000,1991.0,2.0,109.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,Fuel oil,,4.0
-10560384,11471,athènes,apartment,apartment,250000,1968.0,2.0,70.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10560383,153%2044,gerakas,apartment,apartment,310000,2016.0,3.0,151.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560382,166%2074,glyfada,house,villa,26000000,1998.0,7.0,1050.0,,0,1.0,1.0,0.0,0.0,0.0,,,1,As new,1,0,,,,,,,6.0
-10560381,152%2031,chalandri,apartment,apartment,260000,1975.0,3.0,115.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Electric,,6.0
 10560380,9300,aalst,apartment,apartment,370526,2022.0,3.0,104.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,50.0,,A,,,6.0
-10560379,190%2005,nea makri,apartment,apartment,200000,1973.0,3.0,107.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,Electric,,4.0
-10560378,100000,kolonaki - lykavittos,apartment,apartment,450000,2005.0,1.0,60.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,,,6.0
 10560377,9300,aalst,apartment,apartment,370526,2022.0,3.0,104.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,50.0,,A,,,6.0
-10560376,341%2000,chalkida,house,house,280000,2007.0,4.0,130.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10560375,166%2072,vari,house,villa,1550000,2014.0,5.0,480.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,,,6.0
-10560374,141%2021,irakleio,apartment,ground floor,115000,1975.0,2.0,55.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10560373,166%2073,voula,house,house,5000000,1988.0,5.0,500.0,,1,1.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,Electric,,6.0
-10560372,166%2073,voula,house,house,3600000,2014.0,6.0,690.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Electric,,6.0
-10560370,10434,athènes,apartment,apartment,160000,1965.0,2.0,71.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10560369,11527,ampelokipoi - pentagon,apartment,apartment,160000,1962.0,1.0,60.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560368,162%2031,vyronas,apartment,apartment,130000,1970.0,2.0,67.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Electric,,4.0
 9723148,3118,werchter,house,mansion,675000,,6.0,500.0,,0,0.0,0.0,0.0,1.0,0.0,756.0,,0,,0,1,939.0,479.0,,E,,,
 10277203,1020,bruxelles,house,apartment block,700000,,6.0,340.0,USA hyper equipped,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,As new,0,1,,,,,Gas,3.0,6.0
 10342648,3140,keerbergen,house,villa,849000,1999.0,5.0,391.0,,0,0.0,0.0,0.0,1.0,0.0,2502.0,,1,As new,0,0,3805.0,194.0,,B,,,6.0
@@ -14934,34 +14794,21 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10542525,4020,liège,house,apartment block,160000,,7.0,320.0,,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,To renovate,0,0,,,,,Gas,,2.0
 10527245,7060,soignies,house,apartment block,180000,,4.0,15.0,Not installed,0,0.0,0.0,0.0,0.0,0.0,65.0,3.0,0,To be done up,0,0,,431.0,78.0,F,Gas,0.0,3.0
 9042934,6030,goutroux,house,exceptional property,214800,2021.0,3.0,122.0,,0,0.0,0.0,0.0,0.0,0.0,113.0,,0,,0,0,,90.0,10.0,B,Gas,,
-10560367,174%2055,alimos,apartment,apartment,285000,2008.0,3.0,109.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Electric,,6.0
-10560366,100000,pagkrati,apartment,apartment,150000,1969.0,2.0,77.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Fuel oil,,4.0
-10560365,100000,pagkrati,apartment,penthouse,350000,1975.0,2.0,100.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10560363,16232,vyronas,apartment,penthouse,250000,1980.0,2.0,82.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,Fuel oil,,4.0
-10560361,190%2005,nea makri,house,house,290000,2001.0,3.0,165.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
 10560357,8530,harelbeke,house,house,359000,1933.0,3.0,218.0,Installed,0,0.0,1.0,50.0,0.0,0.0,141.0,,0,As new,0,0,1160.0,622.0,,F,,2.0,6.0
-10488724,151%2027,melissia,apartment,apartment,565000,,3.0,128.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10484442,151%2027,melissia,apartment,apartment,370000,2023.0,2.0,80.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Electric,,6.0
-10425659,174%2055,alimos,apartment,apartment,220000,1975.0,3.0,112.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,1,0,,,,,,,4.0
 10560354,3454,rummen,house,house,687500,2003.0,4.0,323.0,Installed,0,0.0,1.0,0.0,1.0,0.0,1318.0,,1,As new,0,1,2000.0,140.0,,B,,2.0,6.0
-10560353,340%2007,skiros,house,house,275000,,2.0,60.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,,,6.0
 10560352,3500,hasselt,apartment,apartment,429000,2009.0,1.0,121.0,,0,0.0,1.0,20.0,0.0,0.0,,,0,,1,0,1069.0,98.0,,A,,,
 10560351,3580,beringen,house,villa,799500,2021.0,3.0,295.0,,0,0.0,0.0,0.0,1.0,0.0,878.0,,1,,0,0,1452.0,33.0,,A,Gas,,
 10560349,3590,diepenbeek,apartment,apartment,285000,2023.0,2.0,95.0,Installed,0,0.0,1.0,9.0,0.0,0.0,,2.0,0,,1,0,,,,,,2.0,
 10560346,1640,sint-genesius-rode,house,house,349000,,3.0,130.0,Installed,0,0.0,1.0,0.0,0.0,0.0,,3.0,0,To be done up,0,1,604.0,744.0,,F,Gas,2.0,3.0
-10366443,340%2006,amarinthos,house,house,230000,1987.0,4.0,170.0,,0,1.0,0.0,0.0,0.0,0.0,3500.0,,0,,0,0,,,,,,,
 10560342,2180,ekeren,house,house,370000,1952.0,5.0,167.0,Installed,0,0.0,0.0,0.0,1.0,165.0,165.0,,0,As new,0,0,741.0,243.0,,C,Gas,2.0,6.0
 10560340,9031,drongen,apartment,apartment,465000,,3.0,109.0,,0,0.0,1.0,18.0,1.0,0.0,,,0,,0,0,,,,,,,
 10560332,6210,les bons villers,house,mixed use building,525000,,4.0,425.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,380.0,3.0,0,Good,0,1,1388.0,398.0,,E,,1.0,4.0
 10560331,2850,boom,house,house,231000,,2.0,135.0,,0,0.0,0.0,0.0,0.0,0.0,90.0,2.0,0,To renovate,0,0,,837.0,,F,Gas,,2.0
-10560327,175%2061,palaio faliro,apartment,ground floor,120000,1974.0,1.0,49.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Gas,,6.0
 10560326,3080,tervuren,house,house,495000,1990.0,3.0,226.0,Installed,0,1.0,0.0,0.0,1.0,0.0,565.0,3.0,0,To be done up,0,0,2384.0,347.0,,D,Electric,2.0,3.0
 10560324,3454,geetbets,house,house,209000,1959.0,4.0,208.0,,0,0.0,0.0,0.0,0.0,0.0,825.0,3.0,0,To renovate,0,1,728.0,636.0,,F,Fuel oil,,2.0
 10560323,9800,deinze,house,house,305000,1956.0,3.0,188.0,,0,0.0,1.0,0.0,0.0,0.0,188.0,,0,As new,0,0,763.0,266.0,10043.0,C,,,6.0
 10560322,8720,dentergem,house,house,525000,1972.0,3.0,182.0,,0,0.0,0.0,0.0,1.0,0.0,1060.0,,0,,0,0,1057.0,388.0,14193.0,D,,,
 10560320,8720,dentergem,house,house,715000,1930.0,4.0,370.0,,0,0.0,0.0,0.0,1.0,0.0,1297.0,,0,As new,0,0,847.0,372.0,27717.0,D,,,6.0
-10560319,145%2076,dionysos,house,house,1100000,2001.0,5.0,644.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Fuel oil,,6.0
-10560318,145%2078,ekali,house,house,750000,1980.0,3.0,200.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,As new,1,0,,,,,Fuel oil,,6.0
 9042933,6030,goutroux,house,exceptional property,215500,2021.0,3.0,122.0,,0,0.0,0.0,0.0,0.0,0.0,116.0,,0,,0,0,,90.0,10.0,B,Gas,,
 10195308,7140,morlanwelz,house,villa,220000,,2.0,140.0,,0,0.0,1.0,0.0,0.0,0.0,1010.0,4.0,0,Good,0,0,889.0,359.0,,E,Fuel oil,,4.0
 10509023,8380,zeebrugge,house,manor house,299000,,5.0,267.0,,0,0.0,1.0,0.0,0.0,0.0,150.0,4.0,0,Good,0,0,537.0,215.0,,C,Gas,,4.0
@@ -14983,16 +14830,9 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10527360,2920,kalmthout,house,villa,799000,,3.0,193.0,,0,0.0,0.0,0.0,0.0,0.0,1925.0,4.0,0,,0,0,,,,,,,
 10527362,2920,kalmthout,house,villa,830000,,3.0,198.0,,0,0.0,0.0,0.0,0.0,0.0,2014.0,4.0,0,,0,0,,,,,,,
 10545408,3620,gellik,house,villa,880233,,4.0,280.0,,0,0.0,0.0,0.0,0.0,0.0,4413.0,4.0,0,,0,0,,,,,,,
-10560316,180%2030,methana,apartment,ground floor,180000,1992.0,4.0,113.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,Fuel oil,,4.0
-10560314,180%2020,poros trizinias,apartment,apartment,165000,,2.0,75.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Electric,,6.0
 10556904,9000,gent,apartment,apartment,299000,2016.0,1.0,59.0,Installed,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,As new,1,0,733.0,99.0,,A,Gas,2.0,6.0
-10560312,180%2020,poros trizinias,house,villa,399000,2009.0,3.0,500.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10560311,180%2020,poros trizinias,apartment,apartment,180000,2005.0,3.0,102.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Fuel oil,,6.0
-10207835,145%2064,kifissia,apartment,apartment,300000,2006.0,1.0,65.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
-10188524,151%2027,melissia,apartment,apartment,410000,2004.0,3.0,116.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,,6.0
 10560309,2960,brecht,apartment,apartment,269000,2016.0,1.0,53.0,,0,0.0,1.0,33.0,0.0,0.0,,2.0,0,Good,1,1,,149.0,,B,,,4.0
 10560308,2960,sint-lenaarts,house,house,265000,1950.0,3.0,103.0,Semi equipped,0,0.0,0.0,0.0,1.0,0.0,474.0,3.0,0,To renovate,0,1,,852.0,,F,Gas,1.0,2.0
-10163178,340%2007,skiros,apartment,apartment,120000,,3.0,50.0,,0,0.0,0.0,0.0,0.0,0.0,,,1,As new,0,0,,,,,,,6.0
 10560306,8500,kortrijk,house,house,239000,,4.0,158.0,,0,0.0,1.0,0.0,0.0,0.0,75.0,2.0,0,Good,0,1,580.0,262.0,,C,Gas,,4.0
 10560305,8870,izegem,house,villa,575000,1980.0,4.0,269.0,Hyper equipped,0,0.0,0.0,0.0,0.0,0.0,1293.0,4.0,0,Good,0,0,1150.0,284.0,,C,Fuel oil,3.0,4.0
 10560304,3470,waanrode,house,house,520000,1930.0,3.0,350.0,,0,0.0,0.0,0.0,1.0,2510.0,2510.0,4.0,0,Good,0,0,891.0,232.0,,C,Gas,,4.0
@@ -15000,14 +14840,11 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10560302,3840,borgloon,house,house,399000,1954.0,4.0,260.0,,0,0.0,1.0,0.0,0.0,0.0,2952.0,3.0,0,Good,0,0,937.0,263.0,,C,Fuel oil,,4.0
 10560301,9240,zele,house,house,189000,1930.0,3.0,90.0,,0,0.0,0.0,0.0,0.0,0.0,224.0,3.0,0,To renovate,0,0,218.0,944.0,,F,Fuel oil,,2.0
 10560299,3500,hasselt,house,house,215000,1930.0,3.0,108.0,,0,0.0,1.0,0.0,0.0,0.0,85.0,2.0,0,To renovate,0,0,332.0,349.0,,D,Gas,,2.0
-10560296,340%2007,skiros,house,house,240000,,1.0,150.0,,1,1.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,,,4.0
 10560293,2200,herentals,apartment,apartment,209000,1975.0,2.0,99.0,Semi equipped,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,Good,1,1,999.0,307.0,,D,Gas,1.0,4.0
 10560289,8800,rumbeke,house,house,235000,1972.0,2.0,112.0,,0,0.0,0.0,0.0,1.0,0.0,584.0,,0,,0,0,562.0,1157.0,,F,Gas,,
 10560285,8670,koksijde,apartment,apartment,285000,,2.0,85.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,266.0,,C,Gas,,6.0
 10560284,9940,sleidinge,apartment,apartment,285000,1993.0,2.0,92.0,,0,0.0,1.0,13.0,0.0,0.0,,,0,Just renovated,0,0,,,,,,,5.0
 10560283,9940,ertvelde,apartment,apartment,270000,2007.0,2.0,70.0,,0,0.0,1.0,0.0,0.0,0.0,,,0,,1,0,693.0,186.0,,B,,,
-10560282,106%2076,athènes,apartment,apartment,650000,,2.0,110.0,,0,1.0,0.0,0.0,0.0,0.0,,,0,As new,0,0,,,,,Gas,,6.0
-10101031,195%2000,kato sounio,house,apartment block,1000000,1982.0,12.0,480.0,,0,0.0,0.0,0.0,0.0,0.0,,,0,Good,0,0,,,,,,,4.0
 10560279,2300,turnhout,house,house,219000,,2.0,144.0,Semi equipped,0,0.0,1.0,0.0,1.0,0.0,153.0,2.0,0,Good,0,1,,586.0,,F,Gas,1.0,4.0
 10560278,2300,turnhout,house,house,249000,,2.0,125.0,Installed,0,0.0,1.0,0.0,1.0,0.0,210.0,2.0,0,Good,0,0,,364.0,,D,Gas,2.0,4.0
 10500415,8770,ingelmunster,apartment,loft,775000,1966.0,2.0,400.0,,0,0.0,1.0,0.0,1.0,0.0,,,0,,0,0,3009.0,470.0,,E,Wood,,
@@ -15045,7 +14882,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10560254,3700,tongeren,apartment,apartment,249900,1996.0,3.0,141.0,Installed,0,0.0,1.0,31.0,0.0,0.0,,3.0,0,Good,0,0,994.0,114.0,,B,Gas,2.0,4.0
 10560253,3700,tongeren,apartment,ground floor,349900,1996.0,3.0,169.0,Installed,0,0.0,0.0,0.0,0.0,0.0,,3.0,0,Good,0,0,1172.0,224.0,,C,Gas,2.0,4.0
 10560251,2550,kontich,apartment,apartment,215000,1968.0,2.0,75.0,Semi equipped,0,0.0,1.0,3.0,0.0,0.0,,2.0,0,Good,0,1,743.0,348.0,,D,Gas,1.0,4.0
-9928037,116%2034,athènes,apartment,apartment,275000,,2.0,100.0,,1,0.0,0.0,0.0,0.0,0.0,,,0,As new,1,0,,,,,,,6.0
 10560225,9800,bachte-maria-leerne,house,house,515000,2023.0,4.0,192.0,Installed,0,0.0,1.0,23.0,1.0,0.0,,,0,,0,0,,,,,,2.0,
 10477998,2800,mechelen,house,apartment block,365000,1918.0,1.0,47.0,Semi equipped,0,0.0,1.0,0.0,0.0,0.0,69.0,,0,Good,0,1,1334.0,344.0,,D,,1.0,4.0
 10560221,2570,duffel,house,house,385000,,2.0,251.0,Installed,0,0.0,0.0,0.0,1.0,0.0,363.0,,0,As new,0,0,,461.0,,E,Gas,2.0,6.0
@@ -15055,8 +14891,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10560211,9820,merelbeke,house,house,657000,2006.0,5.0,425.0,,0,0.0,1.0,0.0,1.0,0.0,701.0,3.0,0,As new,0,1,1321.0,124.0,10530.0,B,Gas,,6.0
 10560209,9290,berlare,house,house,127500,2020.0,2.0,60.0,,1,0.0,1.0,0.0,1.0,0.0,350.0,4.0,0,As new,0,0,,,,,,,6.0
 10560208,9290,berlare,house,house,127500,2020.0,2.0,60.0,,1,0.0,1.0,0.0,1.0,0.0,350.0,4.0,0,As new,0,0,,,,,,,6.0
-9951338,204%2000,xilokastro,house,house,57000,1960.0,2.0,70.0,Installed,1,0.0,0.0,0.0,0.0,0.0,262.0,,0,,0,0,,,,,Fuel oil,2.0,
-10560207,145%2062,kifissia,apartment,duplex,1800000,2022.0,4.0,230.0,,0,1.0,0.0,0.0,0.0,0.0,,,1,,1,0,,,,,Gas,,
 10560206,9150,bazel,apartment,apartment,246000,2011.0,2.0,90.0,Installed,0,0.0,1.0,6.0,0.0,0.0,,,0,As new,1,0,,,,,Gas,2.0,6.0
 10506527,4877,olne,house,exceptional property,895000,,10.0,400.0,USA hyper equipped,0,0.0,1.0,70.0,1.0,12233.0,12441.0,4.0,0,,0,1,2071.0,284.0,,D,Fuel oil,3.0,
 10442280,2970,schilde,house,villa,1150000,1972.0,3.0,422.0,,0,0.0,0.0,0.0,0.0,0.0,9677.0,4.0,0,,0,0,5313.0,682.0,,F,,,
@@ -15079,7 +14913,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10560205,9140,temse,house,house,249000,1933.0,3.0,107.0,Installed,0,0.0,0.0,0.0,0.0,0.0,120.0,,0,Just renovated,0,1,,,,,Gas,2.0,5.0
 10560200,9300,aalst,house,house,269000,1930.0,3.0,130.0,Installed,0,0.0,1.0,0.0,1.0,0.0,230.0,,0,As new,0,1,,312.0,,D,Gas,2.0,6.0
 10560199,8770,ingelmunster,house,house,198500,1936.0,2.0,107.0,,0,0.0,0.0,0.0,1.0,0.0,200.0,,0,As new,0,1,267.0,352.0,,D,,,6.0
-10560198,854%2000,leros,house,house,320000,,5.0,237.0,,0,1.0,1.0,0.0,0.0,0.0,2000.0,,0,As new,0,0,,150.0,43.0,,,,6.0
 10560191,2830,willebroek,house,house,435000,2009.0,3.0,170.0,,0,0.0,1.0,0.0,0.0,0.0,251.0,,0,As new,0,0,,,,,Gas,,6.0
 10560185,3920,lommel,house,house,449900,1988.0,3.0,167.0,Hyper equipped,0,0.0,0.0,0.0,1.0,1090.0,1090.0,4.0,0,As new,0,0,1385.0,195.0,,B,Gas,3.0,6.0
 10560177,2000,antwerp,apartment,apartment,394000,,2.0,116.0,Installed,0,0.0,0.0,0.0,0.0,0.0,,2.0,0,Good,1,1,,198.0,,B,Gas,2.0,4.0
@@ -15286,7 +15119,6 @@ Property ID,Zip code,City,Type of Property,Subtype of Property,Price (€),Const
 10559663,1380,couture-saint-germain,house,house,1765000,2008.0,8.0,603.0,Installed,0,1.0,1.0,0.0,1.0,0.0,2512.0,4.0,1,,0,0,,167.0,42.0,B,Fuel oil,2.0,
 10559660,1325,bonlez,house,house,695000,,3.0,247.0,,0,0.0,0.0,0.0,1.0,0.0,1120.0,,0,,0,0,,,,,,,
 10559653,1300,wavre,apartment,apartment,220000,1978.0,2.0,130.0,USA installed,0,0.0,1.0,5.0,0.0,0.0,,2.0,0,To be done up,1,0,1588.0,82.0,16.0,A,Gas,2.0,3.0
-10559651,47150,la sauvetat sur lede,house,other property,99900,,4.0,300.0,,0,0.0,0.0,0.0,0.0,0.0,5690.0,4.0,0,,0,0,,,,,,,
 10559649,1410,waterloo,house,house,760000,,4.0,165.0,Installed,0,1.0,1.0,25.0,0.0,0.0,1010.0,3.0,0,Just renovated,0,0,3337.0,402.0,,E,Gas,2.0,5.0
 10559648,1325,gistoux,house,house,790000,,4.0,202.0,USA installed,0,0.0,0.0,0.0,1.0,0.0,2574.0,4.0,0,,0,0,2892.0,41.0,,A+,,2.0,
 10559646,1325,chaumont-gistoux,house,house,375000,,3.0,400.0,,0,0.0,0.0,0.0,1.0,0.0,900.0,,0,To renovate,0,0,,463.0,,F,,,2.0
